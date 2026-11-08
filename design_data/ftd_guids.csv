@@ -1,0 +1,964 @@
+guid,name,inventory_name,mod,tab,size,class
+6506d233-8f21-410b-a183-07926ebbef31,HatchDeco,,,,1x1x1,
+854a9d0b-79bd-4809-a807-4cc6c5930f98,RadarBall,,,,1x1x1,
+29cdebf4-3cda-4c7b-9035-41accfc9234d,Railgun Barrel,Railgun Barrel,,Advanced Cannons,1x1x1,AdvCannonRailBarrel
+d6981f14-d342-40b6-abef-6ac68d31d709,Railgun Barrel 2m,Railgun Barrel 2m,,Railgun Barrel,1x1x2,AdvCannonRailBarrel
+fc1d4c4f-e331-47fe-a613-2b02e8d8a75e,Railgun Barrel 3m,Railgun Barrel 3m,,Railgun Barrel,1x1x3,AdvCannonRailBarrel
+8e981781-a489-4b8b-9da4-ac4bdbc7cb3c,Railgun Barrel 4m,Railgun Barrel 4m,,Railgun Barrel,1x1x4,AdvCannonRailBarrel
+619eadd1-38f3-4a52-860e-e81118e45cc9,Railgun Barrel Variant,Railgun Barrel Variant,,Railgun Barrel,1x1x1,AdvCannonRailBarrel
+cc4392ee-abf8-4745-a07e-b5454ccc5c9a,Railgun Barrel Variant 2m,Railgun Barrel Variant 2m,,Railgun Barrel,1x1x2,AdvCannonRailBarrel
+e69f657b-7cbf-4b5d-9ed2-33d9b9ddfa72,Railgun Barrel Variant 3m,Railgun Barrel Variant 3m,,Railgun Barrel,1x1x3,AdvCannonRailBarrel
+bcf994f9-fe92-42bc-9f8a-62001d070264,Railgun Barrel Variant 4m,Railgun Barrel Variant 4m,,Railgun Barrel,1x1x4,AdvCannonRailBarrel
+a16621d0-464c-4c5c-9053-b3a95d8d244a,Railgun Barrel Variant Alt,Railgun Barrel Variant Alt,,Railgun Barrel,1x1x1,AdvCannonRailBarrel
+639f51d3-737d-420f-ae3d-2f4af5b8b9f4,Railgun Barrel Variant Alt 2m,Railgun Barrel Variant Alt 2m,,Railgun Barrel,1x1x2,AdvCannonRailBarrel
+d16665f1-ab30-420d-ac11-1e8e84b8ffcc,Railgun Barrel Variant Alt 3m,Railgun Barrel Variant Alt 3m,,Railgun Barrel,1x1x3,AdvCannonRailBarrel
+b79222c7-59a6-43c6-a97f-4f96a636d9c0,Railgun Barrel Variant Alt 4m,Railgun Barrel Variant Alt 4m,,Railgun Barrel,1x1x4,AdvCannonRailBarrel
+f5acfc97-8b6b-4dbc-8688-1729bee92938,Rigging,,,Decorations,1x1x1,RiggingBlock
+221415bb-4123-47bf-b4fb-74a50f07a027,Sail Attachment New,Sail Attachment New,,Water,1x1x1,SailAttachmentNew
+7dab2596-86c2-4753-8061-6cd5bdc8d31a,Sail New Main,Sail new main,,Water,1x1x1,SailCore
+f675b19a-4a67-41de-bd60-651bac2cfe17,Alloy Plate,Alloy plate,Core_ACDeco,Blocks,1x1x1,Plate
+f05bbecc-1863-4592-9318-a20f8ff226ec,Alloy Plate 2m,Alloy plate 2m,Core_ACDeco,Alloy Plate,1x1x2,Plate
+3a586d89-8476-4029-b734-8a806c252be4,Alloy Plate 3m,Alloy plate 3m,Core_ACDeco,Alloy Plate,1x1x3,Plate
+a8a3634b-b796-4686-af50-6e73f5fe8542,Alloy Plate 4m,Alloy plate 4m,Core_ACDeco,Alloy Plate,1x1x4,Plate
+27443350-6dac-4c2a-b3e8-85c73674d6e5,Alloy Plate Square Corner,Alloy plate square corner,Core_ACDeco,Alloy Plate,1x1x1,Plate
+bbacb587-910c-46ca-b9ac-d2b9bd6cf79a,Alloy Plate Square Full Corner,Alloy plate square full corner,Core_ACDeco,Alloy Plate,1x1x1,Plate
+f9433e10-2c06-4ca4-8254-6ed64f243f80,Alloy Plate Square Tube,Alloy plate square tube,Core_ACDeco,Alloy Plate,1x1x1,Plate
+89680f21-8b7f-4705-8391-908e86d45701,Alloy Plate Triangle L 2m,Alloy plate triangle L 2m,Core_ACDeco,Alloy Plate,1x1x2,Plate
+42fb0712-8c35-4f4d-b8b0-f54b3df30dda,Alloy Plate Triangle L 3m,Alloy plate triangle L 3m,Core_ACDeco,Alloy Plate,1x1x3,Plate
+f548e2ff-8803-4da3-8ec2-eea578d07073,Alloy Plate Triangle L 4m,Alloy plate triangle L 4m,Core_ACDeco,Alloy Plate,1x1x4,Plate
+03351fda-d7ec-47b5-9036-e2c81f87e389,Alloy Plate Triangle R 2m,Alloy plate triangle R 2m,Core_ACDeco,Alloy Plate,1x1x2,Plate
+062bbeba-7e99-4875-8339-92e6c110a5f1,Alloy Plate Triangle R 3m,Alloy plate triangle R 3m,Core_ACDeco,Alloy Plate,1x1x3,Plate
+a63a6237-ed50-41e7-8ff5-ae3e41e124b6,Alloy Plate Triangle R 4m,Alloy plate triangle R 4m,Core_ACDeco,Alloy Plate,1x1x4,Plate
+46d84cec-6e14-4028-8aa4-e38ee045af77,Anchor Heavy,Heavy anchor,Core_ACDeco,Decorations,1x4x1,
+40f703cc-4dd4-42dd-864e-b10d9299a059,Anchor LWT,Lightweight anchor,Core_ACDeco,Decorations,1x2x1,
+51f8afc5-b071-4639-9f96-693b952fdf80,Applique Panel,Applique panel 1m,Core_ACDeco,Blocks,1x1x1,Applique
+438b4494-6746-4223-93a1-3a75b08bd5b6,Cargo Container,Cargo container,Core_ACDeco,Wooden Material Storage Small,3x3x6,ResourceContainer
+e3dcb476-5dae-4d64-ad60-e25b69009ab8,Chain Large,Large chain,Core_ACDeco,Decorations,1x1x1,
+0c0d49f3-83c0-41db-85f1-e7c27390cbdb,Coal Pile,Coal pile,Core_ACDeco,Wooden Material Storage Small,1x2x2,ResourceContainer
+24013612-7711-4f1a-8e5a-d9c540aa4884,Coal Pile Large,Coal pile (large),Core_ACDeco,Wooden Material Storage Small,3x2x2,ResourceContainer
+6f2ebbbc-6f9c-499e-8850-7725712e4cf2,Door Bulkhead Alloy,Alloy bulkhead door,Core_ACDeco,Door Bulkhead Metal,1x2x1,MovingDoor
+9ea523b6-af69-4809-b5e4-88351099b2dc,Door Bulkhead Metal,Metal bulkhead door,Core_ACDeco,Decorations,1x2x1,MovingDoor
+83e3a5e9-cfb8-4a0c-9ced-6f53822cd2f1,Door Hatch Alloy,Alloy armoured hatch,Core_ACDeco,Door Bulkhead Metal,1x1x1,MovingDoor
+a8fcb3c2-49bb-4a0c-970e-2c200f9c6c0d,Door Hatch Metal,Metal armoured hatch,Core_ACDeco,Door Bulkhead Metal,1x1x1,MovingDoor
+6c2979f0-365a-4e9c-88ee-7b9d931409cb,Ladder,,Core_ACDeco,Decorations,1x1x1,Ladder
+c613bc5d-5018-4961-bf19-d3e2ec694b59,Mannequin,,Core_ACDeco,Decorations,1x2x1,Mannequin
+ae37018a-2b07-422c-b281-87f10fb95d3c,Metal Plate,Metal plate,Core_ACDeco,Blocks,1x1x1,Plate
+c693a2a6-6e82-42b3-8e61-d88938ff69a0,Metal Plate 2m,Metal plate 2m,Core_ACDeco,Metal Plate,1x1x2,Plate
+b5c5c08c-b007-4ece-a4a3-ca34a42231b1,Metal Plate 3m,Metal plate 3m,Core_ACDeco,Metal Plate,1x1x3,Plate
+830354c9-e41e-44f6-949d-9303dbb49982,Metal Plate 4m,Metal plate 4m,Core_ACDeco,Metal Plate,1x1x4,Plate
+9aac83fc-6532-4bfb-ab6a-50154ac3e001,Metal Plate Triangle L 2m,Metal plate triangle L 2m,Core_ACDeco,Metal Plate,1x1x2,Plate
+b59310fe-ebe3-4408-8208-8a46fc993d33,Metal Plate Triangle L 3m,Metal plate triangle L 3m,Core_ACDeco,Metal Plate,1x1x3,Plate
+193608b0-8a0d-4a43-8552-3ba10e16ae54,Metal Plate Triangle L 4m,Metal plate triangle L 4m,Core_ACDeco,Metal Plate,1x1x4,Plate
+56f375f1-cb15-48c4-bb90-ca43a307e53a,Metal Plate Triangle R 2m,Metal plate triangle R 2m,Core_ACDeco,Metal Plate,1x1x2,Plate
+f66de2d5-a2b9-4802-bd27-557442bf2a3a,Metal Plate Triangle R 3m,Metal plate triangle R 3m,Core_ACDeco,Metal Plate,1x1x3,Plate
+9e6375f3-a96e-4106-b59f-dfa70f988a65,Metal Plate Triangle R 4m,Metal plate triangle R 4m,Core_ACDeco,Metal Plate,1x1x4,Plate
+8994b646-ce46-4716-aed9-c295a26208cd,Metal Square Corner,Metal square corner,Core_ACDeco,Metal Plate,1x1x1,Plate
+f0ff34af-a9c1-48e4-8309-deb3bbf8b5d7,Metal Square Full Corner ,Metal square full corner,Core_ACDeco,Metal Plate,1x1x1,Plate
+bf49fcbe-5c36-4e23-9a45-23ffb0db5428,Metal Square Tube,Metal square tube,Core_ACDeco,Metal Plate,1x1x1,Plate
+9e0e132f-7a81-46e9-9130-e824b8913576,Mimic Cube To Pole,,Core_ACDeco,,1x1x1,
+61680c27-5054-4f8d-8ef3-3a8ec7adcfc3,Mimic Cylinder Pierced,,Core_ACDeco,,1x1x1,
+59bfe254-84bf-4099-9d61-59fb8899cece,Mimic Cylinder Pierced Hollow,,Core_ACDeco,,1x1x1,
+7cc2cac9-7f1f-485d-83dc-8ed58e83c6a1,Mimic Hollow,,Core_ACDeco,,1x1x1,
+b3fd9f88-e13b-408a-b3d7-995f6358df4e,Mimic Hollow Sides,,Core_ACDeco,,1x1x1,
+7294cb46-6581-42a3-9268-255897d37c4c,Mimic Hollow U,,Core_ACDeco,,1x1x1,
+45a07224-fb08-43d4-8291-40bb17056726,Mimic Nosecone,,Core_ACDeco,,1x1x1,
+a88310bc-e314-43c5-9485-a4d0684b77ff,Mimic Plane Circle,,Core_ACDeco,,1x1x1,
+1b0dcd1c-3fd7-4192-b95e-a717fa59873f,Mimic Plane Square,,Core_ACDeco,,1x1x1,
+dbe43699-0257-4221-bcb2-83b069b828aa,Mimic Plane Triangle,,Core_ACDeco,,1x1x1,
+85ffa057-ff57-4706-9d3d-283cc72bb945,Mimic Plane Triangle Mirrored,,Core_ACDeco,,1x1x1,
+fb37fdf7-d602-45ed-8b5a-4904ae2d5249,Mimic Pole Half,,Core_ACDeco,,1x1x1,
+38e74f08-8f21-400e-91ee-194208c8fd94,Mimic Pole Half Hollow,,Core_ACDeco,,1x1x1,
+c8f668fd-b261-426f-aaf7-be0984f04b01,Mimic Pole Negative Full,,Core_ACDeco,,1x1x1,
+0b86a987-fc08-4469-907d-03477985ddbc,Mimic Pole Negative Half,,Core_ACDeco,,1x1x1,
+1682f71b-35d2-4ae2-a11f-c26a6c6a483b,Mimic Pole Negative Quarter,,Core_ACDeco,,1x1x1,
+2e569e6d-6536-4903-bb7f-346240d6cf5a,Mimic Pole Negative Quarter Mirrored,,Core_ACDeco,,1x1x1,
+83db9aaf-3aaf-4637-bff8-67f78e3b323b,Mimic Pole Quarter,,Core_ACDeco,,1x1x1,
+f1fe66b2-642b-4687-8550-94de61dc96ba,Mimic Pole Quarter Hollow,,Core_ACDeco,,1x1x1,
+319921c8-4b1e-4e58-961a-193b366c62f4,Mimic Pole Quarter Hollow Mirrored,,Core_ACDeco,,1x1x1,
+0b481354-a879-4720-9843-224cec1a4251,Mimic Pole Quarter Mirrored,,Core_ACDeco,,1x1x1,
+4ae5fc0e-6597-445a-8d99-fc3b8d690f9f,Mimic Pole Tapered,,Core_ACDeco,,1x1x1,
+61323991-bca1-4714-bde6-db608719f910,Mimic Pole Tapered Hollow,,Core_ACDeco,,1x1x1,
+7c7ec710-0db2-48b9-a53b-ae09fc409dc6,Mimic Quarter Hemisphere,,Core_ACDeco,,1x1x1,
+74a61e8f-5cd7-4d6a-822a-b03d3ab160c1,Mimic Quarter Hemisphere Mirrored,,Core_ACDeco,,1x1x1,
+79a49ad9-fda9-477d-bc3d-3468377373d6,Mimic Sphere 16,,Core_ACDeco,,1x1x1,
+ae5371d8-aeb3-4056-ad37-5ff880cf970b,Mimic Sphere Half,,Core_ACDeco,,1x1x1,
+2747e251-4fb0-4ba1-8a2c-9334875f3494,Mimic Sphere Half Hollow,,Core_ACDeco,,1x1x1,
+be56621f-3275-4b0b-828c-0603bb0b9ca8,Mimic Triangle To Triangle,,Core_ACDeco,,1x1x1,
+500604d8-1be4-41f1-8a80-99c251ea236b,Mimic Triangle To Triangle Mirrored,,Core_ACDeco,,1x1x1,
+3e7a7289-6563-4325-9dda-93008ee34314,Mimic Tube 16,,Core_ACDeco,,1x1x1,
+4c3752d8-5a61-46e7-bca6-f48b3c52f6be,Mimic: Cone,,Core_ACDeco,,1x1x1,
+49298135-4e24-4feb-93c3-bdff67e36be9,Mimic: Cube,,Core_ACDeco,,1x1x1,
+a27556f3-78a9-4a34-8adc-c31f812aed4f,Mimic: Empty,,Core_ACDeco,,1x1x1,
+7490e664-d2f5-4da2-bdd1-1c347cdff129,Mimic: Hexagon,,Core_ACDeco,,1x1x1,
+c91a1b6c-33a3-497c-ac42-9586cd13933e,Mimic: Pentagon,,Core_ACDeco,,1x1x1,
+48f11f4d-8321-4778-ab6c-651656890b23,Mimic: Sphere,,Core_ACDeco,,1x1x1,
+eb892953-0779-4a27-80b4-c84b8607b6d6,Mimic: Torus,,Core_ACDeco,,1x1x1,
+7d0079d8-48f8-4e04-8568-38af64241440,Mimic: Tube,,Core_ACDeco,,1x1x1,
+0fbfae3b-76ac-43f4-be8f-36739389dac7,Porthole Alloy,Alloy porthole,Core_ACDeco,Decorations,1x1x1,
+534b8fe0-1184-4191-a249-d78ba2df3332,Porthole Metal,Metal porthole,Core_ACDeco,Decorations,1x1x1,
+d0719f9b-28c3-45a2-9896-bbc4f9e1a602,Railing L TA 1m M2,Railing diagonal (1m),Core_ACDeco,Railing TA 1m M1,1x2x1,
+6a96b58b-862c-4bc2-8701-3340027f061e,Railing R TA 1m M2,Railing diagonal (1m),Core_ACDeco,Railing TA 1m M1,1x2x1,
+9f59f0aa-4a84-49d3-ac0b-1f65b3308324,Railing TA 1m M1,Railing straight (1m),Core_ACDeco,Decorations,1x2x1,
+2f7f61ae-79f1-4139-a790-3f2c26bda4e4,Reinforced Wood,Reinforced decking,Core_ACDeco,Blocks,1x1x1,
+d92c5b73-d0fd-423e-98fc-76b1cd91b524,Reinforced Wood 2m,2m Reinforced Decking,Core_ACDeco,Reinforced Wood,1x1x2,
+50bdd099-dd8d-43f8-b43d-dd14c60be096,Reinforced Wood 3m,3m Reinforced decking,Core_ACDeco,Reinforced Wood,1x1x3,
+6e2afb0f-97b6-4017-b14c-158146da6854,Reinforced Wood 4m,4m reinforced decking,Core_ACDeco,Reinforced Wood,1x1x4,
+4dc97284-74c1-4d5c-9673-f3209da7e9f0,Stacked Stairs,Stacked stairs,Core_ACDeco,Decorations,1x2x1,Stair
+ce77cd15-ad63-425f-ab0c-28b16584d5a1,Stairs,,Core_ACDeco,Decorations,1x1x1,Stair
+8bd20877-417f-4094-ab24-1ebae4d73f85,Truss 1m,1m truss,Core_ACDeco,Blocks,1x1x1,Truss
+31e2129c-ac20-4266-8efd-b07f6200a434,test item,,Core_ACDeco,,1x1x1,
+aea2161d-ff43-4b10-ac0e-933fb5809faa,(CARD) Aerial AI,(CARD) Aerial AI,Core_AI,AI,1x1x1,AIAerialMovementCard
+df687d3b-ad26-49bb-86be-ed694e880252,(CARD) Fortress AI,(CARD) Fortress AI,Core_AI,AI,1x1x1,AIFortressControlCard
+77642c0c-277f-4a7d-9d08-f3f161d8e69c,(CARD) Land AI,(CARD) Land AI,Core_AI,AI,1x1x1,AILandControLCard
+6ae7c977-3f62-414e-98aa-5dc0da89b376,(CARD) Naval AI,(CARD) Naval AI,Core_AI,AI,1x1x1,AINavalMovementCard
+87c616fa-b498-4858-8439-68411a0a62e3,(CARD) Patrol,(CARD) Patrol,Core_AI,,1x1x1,Block
+6d26fe2d-c9ce-4d86-b26f-78afbd22b5b6,(CARD) Propulsion Balancing,(CARD) Propulsion balancing,Core_AI,AI,1x1x1,AIThrusterBalance
+00d31a4d-d523-43f1-b5c2-f96b33a69a99,(CARD) Tracker Target Association,(CARD) Tracker target association,Core_AI,AI,1x1x1,
+f3a1dc17-764c-4435-a83b-17914d5dac6b,(CARD) sailing,(CARD) sailing,Core_AI,AI,1x1x1,AISailing
+cb04f082-b5d9-411c-86da-010123dfb5bf,(CARD) water start,(CARD) water start,Core_AI,AI,1x1x1,AIBalloonWaterStartCard
+5ef97d26-1196-4b1a-ba1d-fd539c26b684,AI Breadboard,AI breadboard,Core_AI,AI,1x1x1,AiBreadboard
+edd65760-896f-4f6a-ba8c-eb2b072635f4,AI Card Slot,AI card slot,Core_AI,AI,1x1x1,AICardSlot
+2b0444a1-9ec4-4c01-804e-a6cf07cb176d,AI Card Slot (this version now obsolete),,Core_AI,AI,1x1x1,AICardSlot
+8ccc8d39-5a97-4cb2-b708-d3ffefd5dc19,AI Connector (5 way),Connector (5 way),Core_AI,,1x1x1,AIConnector
+f29b1372-f4f3-4305-aa85-5fe214361fb7,AI Connector (6 way),Connector,Core_AI,AI,1x1x1,AIConnector
+26a604f0-071c-49ca-8a0e-e1d9c959b1c5,AI Mainframe,Mainframe,Core_AI,AI,1x1x1,AIMainframe
+bba933c2-d3a8-4eff-9615-70c197df8a8f,AIO CIWS controller,All-in-one CIWS controller,Core_AI,Anti Missile Cannon Controller,1x1x1,AioCiwsControllerBlock
+f1070c58-4f5d-40c2-b5ed-8c08673d71a5,AIO LWC,All-in-one local weapon controller,Core_AI,Local Weapon Controller,1x1x1,AioLwcBlock
+9d2ff3d6-abc2-4378-b47c-cad42d4af1bc,Aim point selection,Aim point selection,Core_AI,Behaviours & Additional Routines ,1x1x1,AIAimPointSelection
+23b1fef3-0556-4a51-88fc-d4a223c3e934,Anti Missile Cannon Controller,Close-in weapon system controller,Core_AI,Countermeasure,1x1x1,AntiMissileCannonController
+57cd27b4-7876-41a7-8030-d5099d86bc0a,Behaviours & Additional Routines ,Behaviours & additional routines ,Core_AI,AI,1x1x1,AiCardDepreciated
+c0577484-fdc7-43d4-bb51-a4d3fc378141,Bombing run airplane AI,,Core_AI,Frontal hovercraft AI,1x1x1,AIBombingPlaneCard
+8af05ae6-7876-41a7-8030-d5099d86bc0a,Bombing run hovercraft AI,,Core_AI,Frontal hovercraft AI,1x1x1,AIBombingHoverCard
+7aacb57c-355d-4345-9d35-b34850058753,Build conduit,Build conduit,Core_AI,AI,1x1x1,
+c68d0ed7-66d1-42cd-974e-01aa0f36c847,Camera 360,Camera 360,Core_AI,Wireless Snooper,1x1x1,VisibleCamera360
+0d1d97b5-3c99-45bf-8a5d-e7a624b3ddb6,Camera 90,Camera 90,Core_AI,Wireless Snooper,1x1x1,VisibleCamera90
+a3840b74-2a1a-440e-b5be-6dded6aca7c0,Camera 90 Alternative,Camera 90 Alt.,Core_AI,Wireless Snooper,1x1x1,VisibleCamera90
+62e2b663-c26f-461e-ae26-43068010f993,Camera Gimbal Tracker,Camera gimbal tracker,Core_AI,Wireless Snooper,1x1x1,VisibleCamera
+55ac222d-69c7-4a14-8bab-39432308ab0b,Circling airplane AI,,Core_AI,Frontal hovercraft AI,1x1x1,AICirclingPlaneCard
+79ef49d5-7876-41a7-8030-d5099d86bc0a,Circling hovercraft AI,,Core_AI,Frontal hovercraft AI,1x1x1,AICirclingHoverCard
+9f418d0a-18b7-4e53-ac8b-acb49270fd9a,Circling ship AI,,Core_AI,Frontal hovercraft AI,1x1x1,AICirclingShipCard
+63889002-e666-4ff4-9cc1-cca01a8de2ce,Circling tank AI,,Core_AI,Frontal hovercraft AI,1x1x1,AICirclingTankCard
+052432ff-4709-4cfc-b3b6-82a34f6757ca,Enemy Simulator,Enemy simulator,Core_AI,AI,1x1x1,EnemySimulator
+ddee4f0c-e9de-4a73-b87f-c34d674450cb,Failsafe,Failsafe,Core_AI,AI,1x1x1,AIFailsafe
+fa3b5219-d4bf-401a-a105-c0332d8496d2,Fire pattern controller,Fire pattern controller,Core_AI,,1x1x1,
+930ab796-f1c7-47f0-bf04-0ef6ae44006b,Flag post,Flag post,Core_AI,Decorations,1x1x1,AIFlagPost
+68de38c4-7876-41a7-8030-d5099d86bc0a,Frontal hovercraft AI,Frontal hovercraft AI,Core_AI,AI,1x1x1,AIFrontalHoverCard
+3ed4d2a4-62ce-4807-b516-6da685804e1e,General Purpose Processing Card,General processing card,Core_AI,AI,1x1x1,AiGPPCard
+60c591be-98fa-4844-b55b-6d55bc16493e,IR Camera 360,IR camera 360,Core_AI,Wireless Snooper,1x2x1,AiIrCamera360
+f003eae6-6818-4da9-a1d0-6e4f1677d49f,IR Camera 90,IR camera 90,Core_AI,Wireless Snooper,1x1x2,AiIrCamera90
+a745d992-b62f-4014-a524-9e5953ccffd3,IR Camera Gimbal Tracker,IR camera gimbal tracker,Core_AI,Wireless Snooper,1x1x1,AiIrCamera
+5292dcab-a674-467a-a21a-702d2c2a152b,Inter vehicle Transmitter,Inter-vehicle transmitter,Core_AI,AI,1x1x1,AiInterVehicleTransmitter
+1bb2d71d-cd5f-4a23-844b-8005dec7bd5c,Laser Range finder Tracker,Laser range finder tracker,Core_AI,Wireless Snooper,1x1x1,AITracker
+cdabf95e-e712-4a93-8214-79d2d9a809a6,Laser warner,Laser warner,Core_AI,Countermeasure,1x1x1,LaserWarner
+ef545d00-c22d-4eed-bd76-74d6432e2974,Local Weapon Controller,Local weapon controller,Core_AI,AI,1x1x1,AILocalWeaponControl
+742c7d8c-d03a-49d8-bc71-46f5f828bf72,Lua Snooper,Lua snooper,Core_AI,,1x1x1,
+1725c9ed-29fd-438d-97f6-8f645a1865d4,Munition warner,Munition warner,Core_AI,Countermeasure,1x1x1,MissileWarner
+42033da8-485e-43be-99db-ffe2492767b4,PID,PID,Core_AI,AI,1x1x1,AIPID
+c2dfcb78-dd5b-4406-8c95-0f884c4d89e1,Passive Radar 360,Passive radar 360,Core_AI,Wireless Snooper,1x1x1,AiPassiveRadar
+e00c4398-a6e7-4330-813a-b3c3ac8da3d8,Passive Sonar 360,Passive sonar 360,Core_AI,Wireless Snooper,1x1x1,AiPassiveSonar
+10a165d1-1333-4c57-a942-b857542c4b45,Radar 360,Radar 360,Core_AI,Wireless Snooper,1x1x1,AIRadar
+ccb4fd67-d791-4b1f-80cb-42346313254e,Radar 90,Radar 90,Core_AI,Wireless Snooper,1x1x1,AiRadar90
+a6edccd7-3ec8-419c-9405-703e8b4bdc8b,Radar Gimbal Tracker,Radar gimbal tracker,Core_AI,Wireless Snooper,1x1x1,AiRadarGimbal
+f8594608-c8c2-4544-94cb-8c0c78fbb4b0,Range Finder (5m),Range finder (5m),Core_AI,Wireless Snooper,5x1x1,CoincidenceRangefinder
+16052cd0-6fb9-4c1f-bfcb-2574d21434f0,Range Finder (5m) armour,Range finder (5m) armour,Core_AI,Range Finder (5m),5x1x1,CoincidenceRangefinder
+3e0a0bd7-7805-4e8f-836e-0cbcfee512af,Retroreflection Sensor 360,Retroreflection sensor 360,Core_AI,Wireless Snooper,1x1x1,AIDetector
+d3cc2b19-daee-432d-9aff-45fc63d24fca,Sensor scrambler ECM,,Core_AI,Countermeasure,1x1x1,AISensorScrambler
+956b9974-b044-494e-b5e4-d1cdbc5d5327,Smoke dispenser,Smoke dispenser,Core_AI,Countermeasure,1x1x1,SmokeDispenser
+3deb411a-953b-45a7-955a-35a96ef4e86b,Sonar 360,Sonar 360,Core_AI,Wireless Snooper,1x1x1,AiActiveSonar
+f6d7596c-e800-41e3-9076-077fda224aa1,Sonar 90,Sonar 90,Core_AI,Wireless Snooper,1x1x1,AiActiveSonar90
+2c557c38-4136-436a-bae2-c5cd1102690c,Target Prioritisation,Target prioritisation,Core_AI,Behaviours & Additional Routines ,1x1x1,AITargetPrioritisationCard
+9de26959-6d51-4a6e-b575-ec47e6bdafaf,Telescope Camera Gimbal Tracker,Telescope gimbal tracker,Core_AI,Wireless Snooper,1x2x1,VisibleCamera
+8e9327fb-66d3-45ea-af24-d5f9d60e2cdc,Tracking Computer,Tracking computer,Core_AI,,1x1x1,
+e6bb2b09-daee-432d-9aff-45fc63d24fca,Wireless Receiver,Wireless receiver,Core_AI,AI,1x1x1,AIWirelessReciever
+4b334c3f-aafd-440c-9c1f-02a98fd18ab5,Wireless Snooper,Wireless snooper,Core_AI,AI,1x1x1,AiWirelessSnooper
+a56e0dcf-94e4-48a0-b8b9-5e33e0ab69cf,Wireless Transmitter,Wireless transmitter,Core_AI,AI,1x1x1,AIWirelessTransmitter
+228e59f1-b3de-471a-931f-45735ae6ba7e,6-way connector,6-way connector,Core_APS,Advanced Cannons,1x1x1,AdvCannonConnector
+2f87caef-8e9d-468f-925e-b0bf98e071f3,AA Mantlet (2m),AA mantlet (2m),Core_APS,Omni Mantlet (1m),1x2x1,AdvCannonBarrel
+dc8f69fe-f97c-404f-996c-1b934afa17b5,Adv. Firing piece,Adv. firing piece,Core_APS,Advanced Cannons,1x1x1,AdvCannonFiringPiece
+b3ea8191-f5c9-42f7-b301-fc3144c8d2a5,Advanced Cannon heatsink,Advanced cannon heatsink,Core_APS,,1x1x1,
+7836f02d-9d50-476c-8701-d0e4eda43de3,Ammo Clip (1m shells),Ammo clip (1m shells),Core_APS,Belt feed autoloader (1m shells),1x1x1,AdvCannonAmmoClip
+66e3efae-4d73-4f4e-adbd-85e2573580e4,Ammo Clip (2m shells),Ammo clip (2m shells),Core_APS,Belt feed autoloader (1m shells),1x1x2,AdvCannonAmmoClip
+3b67ec16-9ccd-47de-8753-53617df90c61,Ammo Clip (3m shells),Ammo clip (3m shells),Core_APS,Belt feed autoloader (1m shells),1x1x3,AdvCannonAmmoClip
+c3f26ef6-22f2-4a04-bb49-aa66cc949188,Ammo Clip (4m shells),Ammo clip (4m shells),Core_APS,Belt feed autoloader (1m shells),1x1x4,AdvCannonAmmoClip
+26628920-1c53-4e28-b578-eac6a108bab2,Ammo Clip (5m shells),Ammo clip (5m shells),Core_APS,Belt feed autoloader (1m shells),1x1x5,AdvCannonAmmoClip
+462f80ed-2611-4cf8-a204-c7a66ea241da,Ammo Clip (6m shells),Ammo clip (6m shells),Core_APS,Belt feed autoloader (1m shells),1x1x6,AdvCannonAmmoClip
+2ab03e77-3805-4064-81c7-4bf21ebb242f,Ammo Clip (7m shells),Ammo clip (7m shells),Core_APS,Belt feed autoloader (1m shells),1x1x7,AdvCannonAmmoClip
+2a8501f7-2463-441c-901a-57d1a6573fe6,Ammo Clip (8m shells),Ammo clip (8m shells),Core_APS,Belt feed autoloader (1m shells),1x1x8,AdvCannonAmmoClip
+efb55635-4841-42b3-98f0-9aed90b2e826,Ammo Controller,Ammo controller,Core_APS,Advanced Cannons,1x1x1,AdvAmmoController
+c107f90f-68bb-4f16-b023-960e72e1fa3a,Ammo Customiser 1 module,Ammo customiser 1 module,Core_APS,Advanced Cannons,1x1x1,AdvAmmoCustomiser
+649fc6c3-2f0c-4197-8777-e44e86696d60,Ammo Customiser 2 modules,Ammo customiser 2 modules,Core_APS,Advanced Cannons,1x1x1,AdvAmmoCustomiser
+d9a36701-b452-4364-a2f0-cc822af38cd0,Ammo Customiser 4 modules,Ammo customiser 4 modules,Core_APS,Advanced Cannons,1x1x1,AdvAmmoCustomiser
+d13556da-e6dc-4c49-a9ec-b47517709da5,Ammo Ejector,Ammo ejector,Core_APS,Belt feed autoloader (1m shells),1x1x2,AdvAmmoEjector
+7b672666-b275-454f-968f-506e93987800,Ammo Ejector Backwards,Ammo ejector backwards,Core_APS,Belt feed autoloader (1m shells),1x1x2,AdvAmmoEjectorBack
+0a1aa046-e841-4813-907e-6567e596a079,Ammo Input Feeder,Ammo input feeder,Core_APS,Advanced Cannons,1x1x1,AdvCannonAmmoIntake
+d7d56a2b-bc35-4c89-87de-38c99e7d1c2f,Autoloader (1m shells),Autoloader (1m shells),Core_APS,Belt feed autoloader (1m shells),1x1x1,AdvCannonAutoloader
+04d60765-2c11-48eb-b9fa-c3eb847b91d5,Autoloader (2m shells),Autoloader (2m shells),Core_APS,Belt feed autoloader (1m shells),1x1x2,AdvCannonAutoloader
+23453c1f-3946-4db0-a75e-f8b6dab12569,Autoloader (3m shells),Autoloader (3m shells),Core_APS,Belt feed autoloader (1m shells),1x1x3,AdvCannonAutoloader
+86a9327f-50c1-44d9-aa06-08dc3f25b433,Autoloader (4m shells),Autoloader (4m shells),Core_APS,Belt feed autoloader (1m shells),1x1x4,AdvCannonAutoloader
+7bb4572c-0ee5-42a5-b562-47a573757f41,Autoloader (5m shells),Autoloader (5m shells),Core_APS,Belt feed autoloader (1m shells),1x1x5,AdvCannonAutoloader
+1dd8c1cf-ce0b-469d-9924-455dae4958f5,Autoloader (6m shells),Autoloader (6m shells),Core_APS,Belt feed autoloader (1m shells),1x1x6,AdvCannonAutoloader
+704a2934-b07e-41cb-880d-91b3995152a9,Autoloader (7m shells),Autoloader (7m shells),Core_APS,Belt feed autoloader (1m shells),1x1x7,AdvCannonAutoloader
+832b5533-fa5d-45ec-ba4f-2dca1e8f0bba,Autoloader (8m shells),Autoloader (8m shells),Core_APS,Belt feed autoloader (1m shells),1x1x8,AdvCannonAutoloader
+08d6ef2c-d97e-4b40-a5e3-0485b945f88b,Barrel,Barrel,Core_APS,Advanced Cannons,1x1x1,AdvCannonBarrel
+74f9b43b-14d2-433c-acc0-8f0322427daa,Barrel (2m), Barrel 2m,Core_APS,Barrel,1x1x2,AdvCannonBarrel
+e8ae14ad-159f-4d33-86f3-408e01aa4fdd,Barrel (3m),Barrel 3m,Core_APS,Barrel,1x1x3,AdvCannonBarrel
+011e4de9-c66c-4ce6-ad22-2fd6ac9df2a6,Barrel (4m),Barrel 4m,Core_APS,Barrel,1x1x4,AdvCannonBarrel
+00b9dfc4-ac8f-4fee-bbe0-a76aeeb75627,Belt feed autoloader (1m shells),Beltfed autoloader (1m shells),Core_APS,Advanced Cannons,1x1x1,AdvCannonBeltFeedAutoloader
+9e8fd38f-a406-4d87-8186-de37979d4d20,Bore Evacuator,Bore evacuator,Core_APS,Barrel,1x1x1,AdvCannonBarrel
+d22f3d7d-7507-4d30-b884-9bfdc68d59be,Elevation Mantlet (1m),Elevation mantlet (1m),Core_APS,Omni Mantlet (1m),1x1x1,AdvCannonBarrel
+c624a6cd-31dc-49d3-a1e9-5482d06acbc6,Elevation Mantlet (3m),Elevation mantlet (3m),Core_APS,Omni Mantlet (1m),1x3x1,AdvCannonBarrel
+6785811b-60fb-48f2-ac17-642ab69d1dde,Fall of Shot Predictor,Fall of shot predictor,Core_APS,Advanced Cannons,1x1x1,AdvCannonTargetPredictor
+ac65ce78-2e21-465e-a28b-07ebbd65805e,Gauge cooler 4way,Gauge cooler 4way,Core_APS,Advanced Cannons,1x1x1,AdvCannon4way
+93c6e594-4bea-419c-93f6-8d1f6c3463ec,Gauge cooler 5way,Gauge cooler 5way,Core_APS,Advanced Cannons,1x1x1,AdvCannon5way
+8a96edf6-93c3-47c2-b3ad-894598f262e3,Gauge cooler corner,,Core_APS,Advanced Cannons,1x1x1,AdvCannonCorner
+52ff74a3-3d0f-4b2f-bfe3-23ff12f74354,Gauge cooler splitter,Cooling splitter,Core_APS,Advanced Cannons,1x1x1,AdvCannonSplitter
+703d6094-850b-45fc-a01c-25ceddd49dcb,Gauge cooling unit,Cooling unit,Core_APS,Advanced Cannons,1x1x1,AdvCannonVenting
+3d6d4fca-b7a9-44f3-a888-d3e43a79331a,Gauge increase,Gauge increaser,Core_APS,Advanced Cannons,1x1x1,AdvCannonGaugeIncrease
+b2a95e90-cfad-4f43-9860-513d31f47374,Heavy Barrel,Heavy barrel,Core_APS,Barrel,1x1x1,AdvCannonBarrel
+62fc0360-f8ff-4ee7-90f2-92da6a26640c,Heavy Barrel (2m),Heavy barrel 2m,Core_APS,Barrel,1x1x2,AdvCannonBarrel
+ed9c1986-99f7-4c15-af23-d735442a286b,Heavy Barrel (3m),Heavy barrel 3m,Core_APS,Barrel,1x1x3,AdvCannonBarrel
+3d8c87b7-2488-4982-860b-e7eda8d5d590,Heavy Barrel (4m),Heavy barrel 4m,Core_APS,Barrel,1x1x4,AdvCannonBarrel
+02666d0e-e9a9-4c9c-854b-a35972a3be64,Heavy Barrel End,Heavy barrel end,Core_APS,Barrel,1x1x1,AdvCannonBarrel
+413da151-24e7-4e94-b5c7-ce7994252586,Heavy Barrel End (2m),Heavy barrel end 2m,Core_APS,Barrel,1x1x2,AdvCannonBarrel
+f49d4249-2995-4a81-b67c-6abbce092b8f,Heavy Barrel End (3m),Heavy barrel end 3m,Core_APS,Barrel,1x1x3,AdvCannonBarrel
+3108f579-7c8e-44e5-8cd8-2fe107afb3ea,Heavy Barrel End (4m),Heavy barrel end 4m,Core_APS,Barrel,1x1x4,AdvCannonBarrel
+24fc1a2c-66aa-4152-a0d8-7d0dd5645151,Heavy Barrel Start,Heavy barrel start,Core_APS,Barrel,1x1x1,AdvCannonBarrel
+9233e3ff-3040-45d3-a2de-873e41a1df76,Heavy Barrel Start (2m),Heavy barrel start 2m,Core_APS,Barrel,1x1x2,AdvCannonBarrel
+24e5e3f7-ad7a-4083-abff-0a262f541dd9,Heavy Barrel Start (3m),Heavy barrel start 3m,Core_APS,Barrel,1x1x3,AdvCannonBarrel
+6ad7cafc-e88c-4722-88c0-f5acba190527,Heavy Barrel Start (4m),Heavy barrel start 4m,Core_APS,Barrel,1x1x4,AdvCannonBarrel
+5bd210b0-2377-45c8-9287-ec607acbbe60,Hydraulic recoil absorber (1m),Recoil absorber (1m),Core_APS,Advanced Cannons,1x1x1,HydraulicRecoil
+faa18ecd-0edf-4167-8c30-8cf2b95f42e1,Hydraulic recoil absorber (2m),Recoil absorber (2m),Core_APS,Hydraulic recoil absorber (1m),1x1x2,HydraulicRecoil
+fb692c79-847a-4935-9275-741ff449ef77,Hydraulic recoil absorber (3m),Recoil absorber (3m),Core_APS,Hydraulic recoil absorber (1m),1x1x3,HydraulicRecoil
+fd4946a4-1633-4627-9728-c1b5dd276ddb,Hydraulic recoil absorber (4m),Recoil absorber (4m),Core_APS,Hydraulic recoil absorber (1m),1x1x4,HydraulicRecoil
+9c1e83ca-c225-41d9-bded-f9d6e8dc6bca,Hydraulic recoil absorber (5m),Recoil absorber (5m),Core_APS,Hydraulic recoil absorber (1m),1x1x5,HydraulicRecoil
+e0f5e9a7-a384-48f9-9ec5-fe6aac81c440,Hydraulic recoil absorber (6m),Recoil absorber (6m),Core_APS,Hydraulic recoil absorber (1m),1x1x6,HydraulicRecoil
+83b06ab4-8278-4f8a-bd6f-bd26747dbd75,Hydraulic recoil absorber (7m),Recoil absorber (7m),Core_APS,Hydraulic recoil absorber (1m),1x1x7,HydraulicRecoil
+acb4bf6e-b10e-4a6f-b9dc-b22be888c096,Hydraulic recoil absorber (8m),Recoil absorber (8m),Core_APS,Hydraulic recoil absorber (1m),1x1x8,HydraulicRecoil
+575c59bf-c5be-4558-8ab7-7bb672f62ffb,Laser Targeter,Laser targeter,Core_APS,Advanced Cannons,1x1x1,AdvCannonLaserTargeter
+ef753ff4-2d7e-411c-880c-08222dd6a4c5,Muzzle Brake,Muzzle brake,Core_APS,Barrel,1x1x1,AdvCannonBarrel
+fcfb5e7d-711b-4dbd-a64f-2c7a3b065e98,Muzzle brake 2m variant,Muzzle brake 2m,Core_APS,Barrel,1x1x2,AdvCannonBarrel
+1fb2b5d6-25aa-46a8-9371-a43cae464009,Muzzle brake variant,Muzzle brake,Core_APS,Barrel,1x1x1,AdvCannonBarrel
+85cd3795-9fb0-43ce-87dc-ff07f2844dd3,Omni Mantlet (1m),Omni mantlet (1m),Core_APS,Advanced Cannons,1x1x1,AdvCannonBarrel
+09d28633-cff1-4cc4-9e11-161f350dbf60,Omni Mantlet (3x3m),Omni mantlet (3x3m),Core_APS,Omni Mantlet (1m),3x3x1,AdvCannonBarrel
+ecbcd3ac-9937-4351-abd8-a727c0d0ad77,Railgun Charger,Railgun charger,Core_APS,Advanced Cannons,1x1x1,AdvCannonRailgunCharger
+ae863b85-af05-40ee-a092-c97eb733d6fc,Railgun Magnet Attaching Fixture,Railgun magnet attacher,Core_APS,Advanced Cannons,1x1x1,AdvCannonRailgunAttachPoint
+227791eb-9d17-481e-bece-a2c4c292460e,Railgun Magnet Attaching Fixture 1 attachment,Railgun magnet attacher 1 attachment,Core_APS,Railgun Magnet Attaching Fixture,1x1x1,AdvCannonRailgunAttachPoint
+e9444d6d-714b-4cd7-aa9d-9527f425fdd7,Railgun barrel magnet,Railgun barrel magnet,Core_APS,Advanced Cannons,1x1x1,AdvCannonMagnet
+565faf2e-346d-4ba5-b9d3-99601ad33c74,Recoil absorber (Old),Recoil absorber (Old),Core_APS,,1x1x1,AdvCannonRecoilAbsorber
+375f4305-47bc-4abd-8c68-b67cb50e7036,Solid Ammo Clip (1m shells),Solid ammo clip (1m shells),Core_APS,Belt feed autoloader (1m shells),1x1x1,AdvCannonAmmoClip
+f45bd228-43c8-482c-824c-71e48e8ef27a,Solid Ammo Clip (2m shells),Solid ammo clip (2m shells),Core_APS,Belt feed autoloader (1m shells),1x1x2,AdvCannonAmmoClip
+7676bdb0-2cc4-4966-8d71-b1025244d911,Solid Ammo Clip (3m shells),Solid ammo clip (3m shells),Core_APS,Belt feed autoloader (1m shells),1x1x3,AdvCannonAmmoClip
+120b90ce-8434-4e44-a32f-7e5da874eaf7,Solid Ammo Clip (4m shells),Solid ammo clip (4m shells),Core_APS,Belt feed autoloader (1m shells),1x1x4,AdvCannonAmmoClip
+24182e93-94d4-4b29-8795-a107b21b2695,Solid Ammo Clip (5m shells),Solid ammo clip (5m shells),Core_APS,Belt feed autoloader (1m shells),1x1x5,AdvCannonAmmoClip
+1cbba583-ef54-4de9-9364-4e7371bf4ac3,Solid Ammo Clip (6m shells),Solid ammo clip (6m shells),Core_APS,Belt feed autoloader (1m shells),1x1x6,AdvCannonAmmoClip
+00e9e62f-8b53-4cca-89ef-2a99a76766da,Solid Ammo Clip (7m shells),Solid ammo clip (7m shells),Core_APS,Belt feed autoloader (1m shells),1x1x7,AdvCannonAmmoClip
+973c1ee1-2dc4-4cd7-be7c-32a37cb405de,Solid Ammo Clip (8m shells),Solid ammo clip (8m shells),Core_APS,Belt feed autoloader (1m shells),1x1x8,AdvCannonAmmoClip
+75a78e48-0848-45ee-9df2-e2b328c1933d,Aero Elevator (pitch only),Aero elevator (pitch only),Core_Air,Air,1x1x1,AirElevator
+275b820d-dd55-49aa-9b09-48b58e8ab5da,Aero Rudder (yaw only),Aero rudder (yaw only),Core_Air,Air,1x1x1,AirRudder
+c4e23d98-fbde-449e-823f-872004cadc7a,Aileron,Aileron,Core_Air,Air,1x1x1,Aileron
+c0195e03-fdca-46bc-8a90-07591b327835,Air intake duct,Air intake duct,Core_Air,Jet intake,1x1x1,JetIntakePipe
+3b077435-2652-498b-8356-114d14dcd1dd,Air intake duct corner,Air intake duct corner,Core_Air,Jet intake,1x1x1,JetIntakePipe
+49a3ae83-4c71-4b9b-b6f3-641ec95105b1,Air intake hull duct,Air intake hull duct,Core_Air,Jet intake,1x1x1,JetIntakePipe
+d93e3937-d015-44bc-95d4-84a4d264de32,Alloy duct (1x1),Alloy duct (1x1),Core_Air,Duct (3x3),1x1x1,Duct
+5b37e54b-096b-4e10-9730-4f8823c596ff,Alloy duct (3x3),Alloy duct (3x3),Core_Air,Duct (3x3),3x3x1,Duct
+765df0b8-b698-40b1-8361-37882e72b07c,Alloy duct (5x5),Alloy duct (5x5),Core_Air,Duct (3x3),5x5x1,Duct
+23dc456a-cfc7-4373-a1a1-3eb73d1ab7b7,Alloy duct (7x7),Alloy duct (7x7),Core_Air,Duct (3x3),7x7x1,Duct
+862712ab-6534-45e2-ad89-1d8eb0fd26de,Dedicated heliblade extension,Dediblade extension,Core_Air,Air,1x1x1,HeliBlock
+6f0efd3e-c241-437c-b25f-92dc1e83332c,Dedicated heliblade pole extender,Dediblade pole extender,Core_Air,Air,1x1x1,HelicopterPoleExtension
+564a75cd-8d7c-469b-a4b3-053d772b7d9d,Dedicated heliblade spinner,Dediblade spinner,Core_Air,Air,1x1x1,HelicopterSpinner
+5e236eef-c91e-45bc-afc4-bff4d133ac14,Duct (3x3),Metal duct (3x3),Core_Air,Air,3x3x1,Duct
+e7fc9ece-d2f4-4671-a3e8-77196601cf4e,Duct (5x5),Metal duct (5x5),Core_Air,Duct (3x3),5x5x1,Duct
+52b78a75-115a-4962-96f1-35177b46ba93,Duct (7x7),Metal duct (7x7),Core_Air,Duct (3x3),7x7x1,Duct
+8a075da2-c74c-4129-8c89-a8c2dba21a45,Ducted air intake,Ducted air intake,Core_Air,Jet intake,3x3x1,JetIntakePipedTop
+d898f953-9f27-484a-ba41-ce7ada3f047c,Ducted air intake front,Ducted air intake front,Core_Air,Jet intake,3x3x1,JetIntakePipedFront
+576a1ec8-9e31-441e-a8d3-83f3b12af97a,Ducted air intake side,Ducted air intake side,Core_Air,Jet intake,3x3x1,JetIntakePipedSide
+655b4a78-f193-4da9-82bd-6f0c9b4560f1,Front air duct intake,Front air duct intake,Core_Air,Jet intake,1x1x1,JetIntakePipe
+78804e2d-8086-4e40-accb-0b5719be91bf,Heavy armour duct (1x1),Heavy armour duct (1x1),Core_Air,Duct (3x3),1x1x1,Duct
+6071db06-cc2a-4692-8914-bf5c2df16928,Heavy armour duct (3x3),Heavy armour duct (3x3),Core_Air,Duct (3x3),3x3x1,Duct
+e238669c-ef02-4e6d-847e-3397f1a5b30d,Heavy armour duct (5x5),Heavy armour duct (5x5),Core_Air,Duct (3x3),5x5x1,Duct
+9d6a7a27-b3d1-4579-8c6b-20c20d535d04,Heavy armour duct (7x7),Heavy armour duct (7x7),Core_Air,Duct (3x3),7x7x1,Duct
+2a508eb8-cc74-43bb-9643-afd0c518d09f,Helicopter Blade (Upside down!!),Helicopter blade (upside down!!),Core_Air,Helicopter blade,1x1x1,HelicopterBladeUpsideDown
+d15a334b-d951-4991-89f0-cdf2599a9699,Helicopter blade,Helicopter blade,Core_Air,Air,1x1x1,HelicopterBlade
+7fea28f0-eb30-4700-a592-c3eb1ffc7b0e,Helicopter blade (unstabilised),Helicopter blade (unstabilised),Core_Air,Helicopter blade,1x1x1,HelicopterBladeAlwaysRelative
+0d466e68-7a97-4e27-a73c-6bda4010f7e7,Helium Pump,Helium pump,Core_Air,Air,1x1x1,HeliumPump
+7475c363-fa60-4348-a2e9-f3e2329fc20a,Hot air balloon Deployer,Hot air balloon deployer,Core_Air,Air,1x1x1,BalloonDeployer
+ad965629-9b13-448b-ab7a-7e69afad2fb4,Hover Jet,Hover jet,Core_Air,Air,1x1x1,HoverJet
+02ea8321-aaff-4d03-8c50-20c241a82632,Huge Ion Thruster,Huge ion thruster,Core_Air,Air,3x3x1,HugeIonThruster
+0083a83e-a716-4c67-aa49-d14fbcd00248,Huge Ion Thruster circular,Huge ion thruster circular,Core_Air,Air,3x3x1,HugeIonThruster
+b74c27c0-081a-45b7-8e81-cdd84ff33490,Huge Jet Engine,Huge jet engine,Core_Air,Air,3x3x1,HugeJet
+50626002-c1bc-41a3-ade6-ee83ba4c548a,Huge Jet Engine flush,Huge jet engine flush,Core_Air,Air,3x3x1,HugeJet
+2718d6ad-07a2-4d98-bd7e-9cdb2b3f70db,Ion Thruster,Ion thruster,Core_Air,Air,1x1x1,IonThruster
+1d206e3b-4641-4002-9d3d-940036154408,Ion Thruster circular,Ion thruster circular,Core_Air,Air,1x1x1,IonThruster
+8e2cb19b-db70-41f4-b398-62c38fd22d2d,Jet Compressor,Compressor,Core_Air,Jet controller,3x3x1,JetCompressor
+a31d4438-03b8-4cf2-ad7d-ff7c07fbf60c,Jet Compressor hull,Compressor hull,Core_Air,Jet controller,3x3x1,JetCompressor
+b50989c9-03d4-4201-a8d4-459dcea86b05,Jet Engine,Jet engine,Core_Air,Air,1x1x1,Jet
+a70f015e-a9fe-45f1-958c-fc501ec7e2ea,Jet Engine flush,Jet engine flush,Core_Air,Air,1x1x1,Jet
+89c3beb4-0fa3-4c3f-a065-7e53497cbe64,Jet Exhaust,Exhaust,Core_Air,Jet controller,3x3x1,JetExhaust
+d62b91f6-8356-4fbc-8415-6405e04cba92,Jet Exhaust Hull,Exhaust hull,Core_Air,Jet controller,3x3x1,JetExhaust
+ad3867b5-6146-44b8-a539-6ab08311e5fe,Jet Stabiliser,Jet stabiliser,Core_Air,Air,1x1x1,JetStabiliser
+fdab4d92-8519-4090-b7e1-b794953b44e4,Jet combuster,Combuster,Core_Air,Jet controller,3x3x1,JetCombuster
+bbe92c52-4eb0-44e7-a1cf-119266d3d8e5,Jet combuster hull,Combuster hull,Core_Air,Jet controller,3x3x1,JetCombuster
+58ba2272-9c86-495b-b2b2-751eda4aafb8,Jet connector,Exhaust connector,Core_Air,Jet controller,3x3x1,JetConnector
+2a990d46-0140-4ae7-95f5-db9efd76aaa8,Jet connector corner,Corner exhaust connector,Core_Air,Jet controller,3x3x3,JetConnector
+9cfb35eb-6259-4bfe-9751-6cc1c5d4c2d6,Jet connector hull,Exhaust connector hull,Core_Air,Jet controller,3x3x1,JetConnector
+b9fabb99-ff73-4018-8521-08441d2f18cf,Jet controller,Jet controller,Core_Air,Air,3x3x1,JetController
+35d7b71f-0247-4e73-8307-5199180d1cbb,Jet controller hull,Jet controller hull,Core_Air,Jet controller,3x3x1,JetController
+59e0ca88-f390-48d0-ade1-0c08f629c4f2,Jet extra combuster,Extra combuster,Core_Air,Jet controller,1x1x1,JetExtraCombuster
+e3d22373-253f-4f48-9638-77d756473c6b,Jet extra compressor,Extra compressor,Core_Air,Jet controller,1x1x1,JetExtraCompressor
+c5bb6398-319b-47c1-a5ef-c6ce9af4e9a6,Jet fuel injector,Injector,Core_Air,Jet controller,1x1x1,JetFuelInjector
+f460c104-356f-4abe-b96a-97122285348f,Jet generator,Jet generator,Core_Air,Jet controller,3x3x1,JetGenerator
+9e39a47e-f190-435a-9ed0-650c2b205f27,Jet generator hull,Jet generator hull,Core_Air,Jet controller,3x3x1,JetGenerator
+261a60dd-5a01-4e6f-b7e8-a56bb21e2ad9,Jet intake,Intake,Core_Air,Jet controller,3x3x1,JetIntake
+82106938-610c-4a66-8fe3-8cde947e707a,Jet intake Hull,Intake hull,Core_Air,Jet controller,3x3x1,JetIntake
+12e26b7f-d42f-4af0-b134-129f8aed8a90,Jet intake add-on,Intake add-on,Core_Air,Jet controller,1x1x1,JetIntakeExtension
+4c82fd24-9b09-4027-b8fc-b51c6f7cfb08,Large propeller blade,Large propeller blade,Core_Air,Air,1x3x1,PropellerBlade
+f0cfb2e8-adc4-47f5-b438-4437226965ab,Large propeller hub,Large propeller hub,Core_Air,Air,3x3x1,PropellerHub
+4e6b4d5b-396f-47cc-97df-63dfc313311c,Large propeller hub extension,Large propeller hub extension,Core_Air,Air,3x3x1,PropellerHubExtension
+fd13443a-1f2e-45e1-8978-9b02541a8174,Metal duct (1x1),Metal duct (1x1),Core_Air,Duct (3x3),1x1x1,Duct
+9500e5fb-4548-41de-934b-6a205bc7b1a1,Propeller blade,Propeller blade,Core_Air,Air,1x1x1,PropellerBlade
+010b899b-b720-4f92-9ad9-1e5b49d91e54,Propeller hub,Propeller hub,Core_Air,Air,1x1x1,PropellerHub
+ff112d96-de76-40ff-89e2-b0f7ae0b8db0,Propeller hub extension,Propeller hub extension,Core_Air,Air,1x1x1,PropellerHubExtension
+26a852c0-da52-4232-8e04-69913c8edc13,Small Jet Combuster,Small combuster,Core_Air,Small Jet Controller,1x1x1,JetCombuster
+cacc9c8b-9149-4adf-a86c-5cf5f4b035b8,Small Jet Compressor,Small compressor,Core_Air,Small Jet Controller,1x1x1,JetCompressor
+c7d3ffb8-3ceb-40ae-a2b0-69c1f4d59462,Small Jet Controller,Small jet controller,Core_Air,Air,1x1x1,JetController
+2b2d4fdc-8ffa-4399-985a-f9f5ec1263d0,Small Jet Exhaust,Small exhaust,Core_Air,Small Jet Controller,1x1x1,JetExhaust
+b093f1e8-7129-4f1b-83ab-737363aceb52,Small Jet Extra Combuster,Small extra combuster,Core_Air,Small Jet Controller,1x1x1,JetExtraCombuster
+fcffecd8-0550-4ff6-b85e-36f45cf04be1,Small Jet Extra Compressor,Small extra compressor,Core_Air,Small Jet Controller,1x1x1,JetExtraCompressor
+7489ebd4-92d2-4641-9db4-139bb592fc34,Small Jet Fuel Injector,Small injector,Core_Air,Small Jet Controller,1x1x1,JetFuelInjector
+95e34566-9234-4559-b601-9a0b9b7c11e5,Small Jet Intake,Small intake,Core_Air,Small Jet Controller,1x1x1,JetIntake
+08101f92-442f-41c8-913e-e5c264463b58,Small Jet Intake Add-On,Small intake add-on,Core_Air,Small Jet Controller,1x1x1,JetIntakeExtension
+32d89838-73d1-4cc7-abbf-e18920b03e3e,Small air intake duct,Small air intake duct,Core_Air,Small Jet Intake,1x1x1,JetIntakePipe
+87c9eeec-3ef0-4735-a595-eb5fbf0e66ca,Small air intake duct corner,Small air intake duct corner,Core_Air,Small Jet Intake,1x1x1,JetIntakePipe
+7f97f70a-00a5-4e07-901a-bde9c479e0cd,Small air intake hull duct,Small air intake hull duct,Core_Air,Small Jet Intake,1x1x1,JetIntakePipe
+6308ac1d-7e51-4760-ba64-e0720d25f519,Small front air duct intake,Small front air duct intake,Core_Air,Small Jet Intake,1x1x1,JetIntakePipe
+3dd5c28f-501e-436a-821d-46874ca9c5d1,Small jet combuster hull,Small combuster hull,Core_Air,Small Jet Controller,1x1x1,JetCombuster
+84b391ce-db19-4cd2-b034-e520fef31cf0,Small jet compressor hull,Small compressor hull,Core_Air,Small Jet Controller,1x1x1,JetCompressor
+ba60a2a9-b4f9-4bed-9a72-091ed6e41182,Small jet connector,Exhaust connector,Core_Air,Small Jet Controller,1x1x1,JetConnector
+a9763554-b190-4861-95fd-f97584923683,Small jet connector corner,Corner exhaust connector,Core_Air,Small Jet Controller,1x1x1,JetConnector
+faa2ce2d-dd4e-4430-9706-833d578df8a6,Small jet connector hull,Exhaust connector hull,Core_Air,Small Jet Controller,1x1x1,JetConnector
+97ab0a32-c1c7-4663-a497-574fb15d9318,Small jet controller hull,Small jet controller hull,Core_Air,Small Jet Controller,1x1x1,JetController
+1fb31e58-d0bf-4234-8e92-ae6e46869e55,Small jet exhaust hull,Small exhaust hull,Core_Air,Small Jet Controller,1x1x1,JetExhaust
+a52c86ec-8f2c-4c0e-8487-8aa12ba93dd0,Small jet generator,Small jet generator,Core_Air,Small Jet Controller,1x1x1,JetGenerator
+5a5b609e-4b9f-4baf-8dd0-f13f9732e0ef,Small jet generator hull,Small jet generator hull,Core_Air,Small Jet Controller,1x1x1,JetGenerator
+0096dd3a-44ff-4a6d-b51a-a79973bc8163,Small jet intake hull,Small intake hull,Core_Air,Small Jet Controller,1x1x1,JetIntake
+58ae1262-6ccd-48ca-ac6f-2eb825aa7b42,Small jet intake piped,Small ducted intake,Core_Air,Small Jet Intake,1x1x1,SmallJetIntakePipedFront
+bdd365a5-c0df-4d2b-959a-93ecb518bb85,Small top air duct intake,Small top air duct intake,Core_Air,Small Jet Intake,1x1x1,JetIntakePipe
+03d79bec-7af0-44e7-a012-f2e2dcacff30,Switch,Switch,Core_Air,Air,1x1x1,Switch
+4934fff3-aca3-4fb3-b242-60afbe8d4439,Tailplane,Tailplane,Core_Air,Air,1x1x1,Tailplane
+7daa646e-4aa2-4b6a-bcd4-4f0405cd58bc,Top air duct intake,Top air duct intake,Core_Air,Jet intake,1x1x1,JetIntakePipe
+d4e23d98-fbde-449e-823f-872004cadc7a,Universal flight surface,,Core_Air,Aileron,1x1x1,UniversalFlightSurface
+478efa9f-5743-4238-ad2e-750770d7da11,Wing,,Core_Air,Air,1x1x1,Wing
+0fd8c160-7f2e-4921-8eef-ff2bd8785c1a,Wing middle,Middle,Core_Air,Air,1x1x1,Wing
+fb997dde-d192-4be3-93bf-9b8bbb647bc5,Wing missile strut,,Core_Air,Wing strut,1x1x1,
+fb1276c4-ba55-4e62-8315-40d4bf8adbf2,Wood duct (1x1),Wood duct (1x1),Core_Air,Duct (3x3),1x1x1,Duct
+692f710c-1710-4db5-9d8a-8c5acc4890ab,Wood duct (3x3),Wood duct (3x3),Core_Air,Duct (3x3),3x3x1,Duct
+05c9b256-38d2-4388-ad8c-b98118593f11,Wood duct (5x5),Wood duct (5x5),Core_Air,Duct (3x3),5x5x1,Duct
+24b4b0d5-8b0f-48bd-bef7-fdad00dede68,Wood duct (7x7),Wood duct (7x7),Core_Air,Duct (3x3),7x7x1,Duct
+ce494e45-5ff6-48a7-8936-30163c58ed99,Bomb Chute,Bomb chute,Core_CRAM,CRAM Cannons,1x1x1,BombChuteBarrel
+543fd6c7-fcf3-4df0-a4b2-891a8574b434,CRAM Barrel,Barrel,Core_CRAM,CRAM Cannons,1x1x1,CannonBarrel
+87142f81-71ce-4d60-9b81-4fe5674112db,EMP Pellets,EMP pellets,Core_CRAM,CRAM Cannons,1x1x1,CannonEmpWarhead
+bc292fe3-2330-4a01-8615-412a19fd7f6d,Elevation barrel,Elevation barrel (middle),Core_CRAM,CRAM Cannons,1x1x1,ElevationBarrel
+a97e03b0-e8da-49e2-9913-ad8c1826d869,Firing piece,Firing piece,Core_CRAM,CRAM Cannons,1x1x1,CannonFiringPiece
+beeb99bb-349c-4a1f-9d53-25a21c065596,Five Way Connector,Five way connector,Core_CRAM,Six Way Connector,1x1x1,CannonConnector
+a5872d78-28e7-48a3-b452-ceb29de035cc,Flash Suppression Barrel,Flash suppression barrel,Core_CRAM,CRAM Cannons,1x1x1,CannonSuppresor
+cbddc406-7870-4b21-b0a3-11ad44d56273,Four Way Angle Connector,Four way angle connector,Core_CRAM,Six Way Connector,1x1x1,CannonConnector
+e83a407f-f7e7-489d-a4b4-fb09d514fe2d,Four Way Connector,Four way connector,Core_CRAM,Six Way Connector,1x1x1,CannonConnector
+379c94e6-7f27-42ab-ab45-66e3533ecde8,Fragmentation Pellets,Frag pellets,Core_CRAM,CRAM Cannons,1x1x1,CannonFragWarhead
+ec49b6a2-244f-4cfa-b49e-8dd19213b280,Fusing Box,Fusing box,Core_CRAM,CRAM Cannons,1x1x1,CannonFusingBox
+9a3f63f4-48b6-4fe0-9f59-9fac3d073750,Gauge Increase,Gauge increase,Core_CRAM,CRAM Cannons,1x1x1,CannonGaugeIncrease
+645a71be-2a80-4228-b036-9de863576708,Gauge Increase Corner,Gauge increase corner,Core_CRAM,CRAM Cannons,1x1x1,CannonGaugeIncrease
+8d70c55b-d200-4f56-a159-28646427d4b1,Gauge Increase Port,Gauge increase port,Core_CRAM,CRAM Cannons,1x1x1,CannonGaugeIncrease
+d2550253-f55a-48e2-8f57-c3931c0359da,Gauge Increase Top,Gauge increase top,Core_CRAM,CRAM Cannons,1x1x1,CannonGaugeIncrease
+dae50de2-b76f-4b24-b33e-f713621a3410,Gauge increase pipe,Gauge increase pipe,Core_CRAM,CRAM Cannons,1x1x1,CannonGaugeIncrease
+a3edc805-8355-4fb3-8d94-d5c19d1a86d9,Gauge increase top 3 connections,Gauge increase top 3 connections,Core_CRAM,CRAM Cannons,1x1x1,CannonGaugeIncrease
+47c8ddc8-9dca-4363-a39e-95dd28008e30,Hardener Pellets,Hardener pellets,Core_CRAM,CRAM Cannons,1x1x1,CannonArmourPiercingWarhead
+1b672c70-b108-4ec9-b6f6-9f817adf7250,Heavy Barrel,Heavy barrel,Core_CRAM,CRAM Cannons,1x1x1,CannonBarrel
+4bd38234-b485-4a94-bc2d-d3fc80d89955,High Explosive Pellets,HE pellets,Core_CRAM,CRAM Cannons,1x1x1,CannonExplosiveWarhead
+3e6e327c-352f-4c8c-b978-7149779a7697,Incendiary Pellets,Incendiary Pellets,Core_CRAM,CRAM Cannons,1x1x1,CannonIncendiaryWarhead
+9ebc44a7-5c1c-484e-8b06-ae390a48db17,Interface screen,Interface screen,Core_CRAM,CRAM Cannons,1x1x1,CannonInterfaceScreen
+f9f91495-3c3b-48e2-9f4c-a53b01c47f6c,Laser Targeter,Laser targeter,Core_CRAM,CRAM Cannons,1x1x1,CannonLaserTargetter
+54836777-b634-4a21-ab1e-2b0e426b640f,Motor Driven Barrel,Motor driven barrel (middle),Core_CRAM,CRAM Cannons,1x1x1,CannonPivotBarrel
+b20baa46-0a1c-482b-a3f9-bbb8c14520e2,Packer x3 (automatic orientation),Packer x3 (automatic orientation),Core_CRAM,CRAM Cannons,1x1x1,CannonAutoLoader
+19945f75-8353-45e1-938f-a548fa05e05e,Packer x3 (manual orientation),Packer x3,Core_CRAM,CRAM Cannons,1x1x1,CannonAutoLoaderManualPlacement
+2ae437c8-afe6-4d6d-9562-0423227878b2,Payload compactor,Payload compactor,Core_CRAM,CRAM Cannons,1x1x1,CannonAmmoBox
+e34ec225-dda1-47fc-b56a-746da1965349,Predictor,Predictor,Core_CRAM,CRAM Cannons,1x1x1,CannonPredictor
+9aa55699-b91d-4e4a-921a-4b60569824bf,Recoil Suppression Barrel,Recoil Suppression Barrel (middle),Core_CRAM,CRAM Cannons,1x1x1,CannonRecoilReducer
+1b0498b9-baa4-4c83-8441-99c2fb8a4e13,Recoil Suppression barrel end variant 2,Recoil suppression barrel end variant 2,Core_CRAM,Recoil Suppression Barrel,1x1x1,CannonRecoilReducer
+fcc23049-9e4d-4b36-bf63-4cffcfbdbcb7,Recoil Suppression barrel end variant 3,Recoil suppression barrel end variant 3,Core_CRAM,Recoil Suppression Barrel,1x1x1,CannonRecoilReducer
+61303e3d-510c-444f-8b29-3dcdf155120c,Recoil Suppression barrel end variant 4,Recoil suppression barrel end variant 4,Core_CRAM,Recoil Suppression Barrel,1x1x1,CannonRecoilReducer
+64109192-fd8e-422b-a9e8-74295d3d74ea,Six Way Connector,Six way connector,Core_CRAM,CRAM Cannons,1x1x1,CannonConnector
+52c8ef4e-c524-4a87-b112-4e0cdf1290c1,Three Way Connector,Three way connector,Core_CRAM,Six Way Connector,1x1x1,CannonConnector
+ebb394e6-0a4e-4b44-8244-7480fc6adedf,Two Way Connector,Two way connector,Core_CRAM,Six Way Connector,1x1x1,CannonConnector
+39c009b3-0704-432e-b179-eef56b81b5d1,ScentedCandleHolder1,,Core_Candle,Miscellaneous,1x1x1,ScentedCandleHolder
+3717e16a-9ce2-45b6-afa3-de71d547510d,ScentedCandleHolder1Nice,,Core_Candle,Miscellaneous,1x1x1,ScentedCandleHolderSafe
+056465cb-3bf5-41c2-bae3-22371a4a7a8d,ScentedCandleHolder2,,Core_Candle,ScentedCandleHolder1,1x1x1,ScentedCandleHolder
+17dac0b8-5610-45ff-8543-c04a4fed62e3,ScentedCandleHolder2Nice,,Core_Candle,ScentedCandleHolder1Nice,1x1x1,ScentedCandleHolderSafe
+4ba5f96b-f749-4dd1-a110-1bf178eed0d1,ScentedCandleHolder3,,Core_Candle,ScentedCandleHolder1,1x1x1,ScentedCandleHolder
+ad443632-f57b-410d-92e4-c8bb80f519af,ScentedCandleHolder3Nice,,Core_Candle,ScentedCandleHolder1Nice,1x1x1,ScentedCandleHolderSafe
+92ae17ea-25aa-49f9-9a6f-229675c1fb18,ScentedCandleHolder4,,Core_Candle,ScentedCandleHolder1,1x1x1,ScentedCandleHolder
+dd38c49a-2af8-4805-9218-5649a3bd9b1d,ScentedCandleHolder4Nice,,Core_Candle,ScentedCandleHolder1Nice,1x1x1,ScentedCandleHolderSafe
+6ad1413f-cd72-4a90-85c6-7d6f68f53c09,ScentedCandleHolder5,,Core_Candle,ScentedCandleHolder1,1x1x1,ScentedCandleHolder
+3d668ca1-8000-4ad3-85e5-a0443e14c3f4,ScentedCandleHolder5Nice,,Core_Candle,ScentedCandleHolder1Nice,1x1x1,ScentedCandleHolderSafe
+4742763a-b2d7-41ed-9cf8-ec10a561838b,ScentedCandleHolder6,,Core_Candle,ScentedCandleHolder1,1x1x1,ScentedCandleHolder
+7232168f-c00b-43b8-99a5-2d31a3ebf53e,ScentedCandleHolder6Nice,,Core_Candle,ScentedCandleHolder1Nice,1x1x1,ScentedCandleHolderSafe
+d2cccaa0-415a-413a-964e-ff747f20b964,Elevation only Turret,Elevation only Turret,Core_Construct,Subobjects,1x1x1,Turret360PrecisionSubConstructable
+74c982f4-305f-411e-a8b4-d193315ab3bc,Fortress,Fortress,Core_Construct,New blueprints,1x1x1,Fortress
+9d4fa368-3e44-4262-a213-4157a14d3677,One Axis Turret,One Axis Turret,Core_Construct,Subobjects,1x1x1,Turret360PrecisionSubConstructable
+05537cc1-9df6-4395-a3d4-1db6226c62b5,One Axis Turret (3m),One Axis Turret (3m),Core_Construct,Subobjects,3x1x3,Turret360PrecisionSubConstructable
+7161f887-4de6-4b5e-9066-f39d6cad9f16,One Axis Turret (5m),One Axis Turret (5m),Core_Construct,Subobjects,5x1x5,Turret360PrecisionSubConstructable
+382a7650-2231-4867-96e4-8d97242a4741,Sky Fortress Turbine,Sky Fortress Turbine,Core_Construct,New blueprints,1x2x1,FortressTurbine
+788700be-1e74-46d7-9e34-1a5ec2747548,Spin / Turn block,Spin / Turn block,Core_Construct,Subobjects,1x1x1,PrecisionSpinBlockSubConstructable
+cdca5dec-eeee-4849-9b2e-73b23e216465,Spin block,Spin block,Core_Construct,,1x1x1,PrecisionSpinBlock
+cb5bfa64-c3fd-435c-b0da-3891a86b20d2,Structure,Structure,Core_Construct,New blueprints,1x1x1,Structure
+2e86af10-00e0-4dad-9cac-3b87ca9e468d,Telescopic Piston (1m) Block,Telescopic piston (1m),Core_Construct,,1x1x1,TelescopicPiston
+d83e6a25-e6c3-49df-9d0b-de3c5edb579b,Telescopic Piston (1m) Constructable,Telescopic Piston (1m),Core_Construct,Subobjects,1x1x1,TelescopicPistonSubConstructable
+6ebdb4c7-5626-4051-a91f-21fe6e636263,Telescopic Piston Block,Telescopic piston,Core_Construct,,1x2x1,TelescopicPiston
+107478fd-2a4d-4fb0-81b9-1a448d3ba987,Telescopic Piston Constructable,Telescopic Piston,Core_Construct,Subobjects,1x2x1,TelescopicPistonSubConstructable
+2c56eeab-7432-4c31-b413-68b0ee7e2d7c,Turret Block Elevation only,Turret Block Elevation only,Core_Construct,,1x1x1,Turret360Precision
+8f461b33-37cf-4049-b04c-4aa0d2292e2d,Turret Block One Axis,Turret Block One Axis,Core_Construct,,1x1x1,Turret360Precision
+c310aa38-b723-4a66-8700-47cffe7647f4,Turret Block One Axis (3m),Turret Block One Axis (3m),Core_Construct,,3x1x3,Turret360Precision
+b7c60d19-d652-4fcc-af1a-85409c9c131f,Turret Block One Axis (5m),Turret Block One Axis (5m),Core_Construct,,5x1x5,Turret360Precision
+c5cec892-2e43-4905-9d28-44fc8ecb5cc7,Turret Block Two Axis,Turret Block Two Axis,Core_Construct,,1x1x1,Turret360Precision
+213026bc-fd7a-44e6-b543-a31c219aaef0,Two Axis Turret,Two Axis Turret,Core_Construct,Subobjects,1x1x1,Turret360PrecisionSubConstructable
+e63040c9-0027-4fd3-be30-67fe3e950140,Vehicle,Vehicle,Core_Construct,New blueprints,1x1x1,Vehicle
+eabd8ca6-30c5-4960-9ec0-221b065b7306,ControlSurfaceComponent,Control surface,Core_ControlSurfaces,Air,1x1x1,ControlSurfacePlate
+2de7b9d9-9e47-4765-8428-4846c0919400,ControlSurfacePivot,Control surface pivot,Core_ControlSurfaces,ControlSurfaceComponent,1x1x1,ControlSurfacePivot
+1aa62ea2-cb83-4778-86f0-4bd96332842c,Acoustic sensor,Acoustic sensor,Core_Decorations,Crystal growth farm,1x1x1,
+06aeabde-f2bf-4a28-96c9-48bdab5dc1bc,Build guide spawner,,Core_Decorations,Decorations,1x1x1,GuideSpawner
+ac102b13-115e-4f27-bab0-4e17baf92c7a,Dance show,,Core_Decorations,Decorations,1x1x1,Podium
+75ffb576-34c6-4dae-87a6-0f45d6482070,Deck Port,Deck port,Core_Decorations,Decorations,1x1x1,
+6c37df0b-7eaf-48d4-85d8-2453014d8edf,Display,,Core_Decorations,Decorations,1x1x1,DisplayPanel
+34a95c9b-6680-4a26-8b20-87a92a6eb8fa,Help page reader,,Core_Decorations,Decorations,1x1x1,HelpPageSpawner
+8d948200-242c-47c3-b46a-ecdf40f7b39b,Hologram Projector,Hologram projector,Core_Decorations,Display,1x1x1,HologramProjector
+c0afc8a9-5c49-4f15-8834-6e39ff144da3,Light fitting,,Core_Decorations,Decorations,1x1x1,LightFitting
+61c56906-c2ae-4953-8fef-2e18e5ff7a68,Mimic,,Core_Decorations,Decorations,1x1x1,Mimic
+d440c51e-7ec0-471e-b4bf-469ee38124c7,Mimic rubber,,Core_Decorations,Decorations,1x1x1,Mimic RubberBlock
+87bd3e7e-16f0-4f0c-99b9-34ddfa032a87,Moving light,,Core_Decorations,Decorations,1x1x1,MovingLight
+f71f9cfc-a107-4404-bb2c-7dc30e10e8da,Neon Light,Neon light,Core_Decorations,Decorations,1x1x1,LightFitting
+9d43ff24-4165-4c48-bc5d-ccb89b0667bd,Poster holder,,Core_Decorations,Sign Post,1x1x1,PosterHolder
+637d3a6a-2f79-477a-b97f-34dca41b5714,Railing,Simple railing,Core_Decorations,Decorations,1x1x1,
+e3bffdbf-01eb-4309-bdb5-4358662eaac4,Sign Post,Sign post,Core_Decorations,Decorations,1x1x1,SignPost
+b286aa49-6029-4ec3-9b58-b987a3d0ae61,Sign post 3m,,Core_Decorations,Sign Post,3x1x1,SignPost
+b06788d5-4715-4168-8f7d-d6380f73fe54,Smoke generator,,Core_Decorations,Decorations,1x1x1,SmokeGenerator
+0586026e-8167-4594-a151-dd16df0434f0,Sound block,,Core_Decorations,Decorations,1x1x1,SoundBlock
+7fbe7409-5884-4387-8348-d279e312f86b,Spaw o matic,,Core_Decorations,Decorations,3x2x1,UsefulSpawnerBlock
+6d58d927-2e19-491c-b2d5-451cc47bf4d8,Spot Light fitting,Spot light fitting,Core_Decorations,Decorations,1x1x1,SpotLightFitting
+9a0d25cc-f5c2-4780-b674-38fe17e73f8e,Stairs,,Core_Decorations,Decorations,1x1x1,Stair
+1576f21e-9ca2-4f29-8b14-53ce98205a5b,Standard door,,Core_Decorations,Decorations,1x2x1,StandardDoor
+a685cee0-a680-4c49-bad9-925f3d921982,Standard door mirrored,,Core_Decorations,Standard door,1x2x1,StandardDoorMirrored
+8b38c81c-7ead-4726-964b-37c793653008,Trail generator,,Core_Decorations,Decorations,1x1x1,TrailGenerator
+69061de4-f4df-41cd-8af1-ccb2081cbae6,Video Screen,Video screen,Core_Decorations,Display,1x1x1,VideoBlock
+78514976-87cf-4d89-85cd-9d0df590a317,Battery Charger,Battery Charger,Core_Depreciated,,1x1x1,
+d7e6366f-3f5c-4dbc-a1fc-b63de74ed7eb,Engine,Engine,Core_Depreciated,,1x1x1,
+76dfe171-525a-48ea-8652-b7537aa06572,Front & Back Connector,Front & Back Connector,Core_Depreciated,,1x1x1,
+edb1b2eb-dac7-4c4f-8967-35f61c75fd93,Fuel Processor,,Core_Depreciated,Crystal growth farm,1x2x1,
+da80769e-0a55-4e05-bf58-1541842f4e82,Generator,Generator,Core_Depreciated,,1x1x1,
+b9457302-db10-49ad-98e2-1c44cdca24b9,Railgun battery,Railgun battery,Core_Depreciated,,1x1x1,
+ea3d81c0-c862-4e06-90aa-63f746e5ce6f,Supply Pump,Supply Pump,Core_Depreciated,,1x1x1,
+552785c2-43cd-41e6-a13a-818388b93968,Up & Down Connector,Up & Down Connector,Core_Depreciated,,1x1x1,
+eadfab64-b2a7-4704-8241-37ae3b42f705,Drill,Drill,Core_Drill,Simple weapons,1x1x2,Drill
+fc4f02ab-2e74-4deb-8d83-ca3da65c99ff,Drill Bit (Large),Drill bit (large),Core_Drill,Drill,3x3x1,DrillBit
+edf0442a-4976-43f4-9a9c-66e43f0353ff,Drill Bit (Small),Drill bit (small),Core_Drill,Drill,1x1x1,DrillBit
+b88f9bdb-8366-4620-8bb0-4fb0a421519f,Drill Bit 5x5,Drill bit 5x5,Core_Drill,Drill,5x5x1,DrillBit
+197f8869-1891-4e7d-9465-97b9183aed22,Drill Extension,Drill extension,Core_Drill,Drill,1x1x1,DrillExtension
+1af0aadf-7edc-401a-9750-0074b8b46b6a,Drill Extension horizontal splitter,Drill extension splitter,Core_Drill,Drill,1x1x1,DrillExtensionSplitter
+51cfbd8b-5223-4101-b4f3-f62872a82b58,Drill Extension vertical splitter,Extension vertical splitter,Core_Drill,Drill,1x1x1,DrillExtensionSplitter
+83e8cf5c-ad5a-4cfd-a0d0-eb4ca9f48127,Power Input,Power input,Core_Drill,Drill,1x1x1,DrillPowerInput
+dfb470c9-e7f2-4530-9b5b-3de8214501da,Torque Amplifier,Torque amplifier,Core_Drill,Drill,1x1x1,DrillTorqueAmplifier
+50c7f99f-6238-4736-97f9-3117a40ef622,Compressor,Flamer compressor,Core_Flamer,Flamethrowers,1x1x1,FlamerCompressor
+2fd4fd83-3125-4825-b596-f78ef36375c2,Flamethrower Back,Flamethrower (back connection),Core_Flamer,Flamethrowers,1x1x4,FlamerMainForward
+a5ad3190-f3ff-4cfd-860a-9f7328482271,Flamethrower Bottom,Flamethrower (bottom connection),Core_Flamer,Flamethrowers,1x1x4,FlamerMainSwivel
+7825dc74-e875-4c76-a919-9e98579fa747,Fuel Pipe,Flamer fuel pipe,Core_Flamer,Flamethrowers,1x1x1,FlamerPipe
+a447ddab-2856-4edb-9a75-b6f3348b20d8,Fuel Pipe 2m,,Core_Flamer,Flamethrowers,1x1x2,FlamerPipe
+feb591f0-77db-4707-ba14-029700ee3d4c,Fuel Pipe 4m,Flamer fuel pipe 4m,Core_Flamer,Flamethrowers,1x1x4,FlamerPipe
+517605b0-dbca-46dc-8cdf-dd8d35958065,Fuel Pipe Connector,Flamer fuel pipe 6-way,Core_Flamer,Flamethrowers,1x1x1,FlamerPipe
+2b6935fd-de2b-4d0f-9dde-1aee8e9d74d3,Fuel Pipe Hull,Flamer hull pipe,Core_Flamer,Flamethrowers,1x1x1,FlamerPipe
+19454c5f-69a1-4675-b5de-fae33f19d8b7,Fuel Pipe L,Flamer fuel pipe L,Core_Flamer,Flamethrowers,1x1x1,FlamerPipe
+e1926f92-8359-40ff-a815-40cdbcd2c17e,Large Compressor,Flamer large Compressor,Core_Flamer,Flamethrowers,3x3x1,FlamerCompressorLarge
+e0e76614-4968-4960-907f-b62377c579c6,Tank Piercing,Flamer catalyst tank,Core_Flamer,Flamethrowers,1x1x1,FlamerTank
+623a858c-e108-41a7-b28f-c7de61ecf59c,Tank Piercing L,Large catalyst tank,Core_Flamer,Flamethrowers,3x3x1,FlamerTankLarge
+e0dd747b-94b8-4477-aaaa-452a5ba0241c,Tank Standard,Flamer fuel tank,Core_Flamer,Flamethrowers,1x1x1,FlamerTank
+8d17143e-7e7c-490d-910d-76c986cbed69,Tank Standard L,Flamer large fuel tank,Core_Flamer,Flamethrowers,3x3x1,FlamerTankLarge
+1241b89b-7380-4f0c-9115-c2585ccafa17,Tank Sticky,Flamer oxidizer tank,Core_Flamer,Flamethrowers,1x1x1,FlamerTank
+0709c108-bb69-4a84-98dd-ea7db800268d,Tank Sticky L,Flamer large oxidizer tank,Core_Flamer,Flamethrowers,3x3x1,FlamerTankLarge
+3bff8428-7481-4847-b00e-f0e49233b86d,4 Way pipe,,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+819ef76e-1023-4f06-bfb1-96cd3e58ba88,5 Way Pipe,,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+94c39cef-53e1-41b2-bbc6-94a869d79c64,6 Way Pipe,,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+267248a3-baaa-4653-83b3-ce478d600b17,Adapter,,Core_FuelEngine,Fuel Engines,1x1x1,FuelEngineAdaptorBlock
+043e9b00-4a2f-41b8-bf2f-4aaa4442f138,Carburettor,,Core_FuelEngine,Fuel Engines,1x1x1,FuelEngineCarbBlock
+d5016f16-6431-4e8f-b0cc-5f0f400b151a,Corner Pipe,,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+01a87958-93cf-4efa-857f-10913b0573d9,Crank Shaft,,Core_FuelEngine,Fuel Engines,1x1x1,FuelEngineCrankBlock
+515ee20d-20d8-4195-bea5-213e6f1fd929,Cylinder,,Core_FuelEngine,Fuel Engines,1x1x1,FuelEngineCylinderBlock
+ac5dda48-2bbf-453b-a4d5-517ae78499a1,Exhaust,,Core_FuelEngine,Fuel Engines,1x1x1,ExhaustComponent
+4c24445d-a29b-446e-b03f-29e570e9d47d,Fuel Engine Generator,,Core_FuelEngine,Fuel Engines,1x1x1,EngineModelBlock
+91d167b1-652f-4ac8-adc4-973b548ccd5d,Hull Pipe,,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+f94702c9-cb55-49e3-8cc4-138288fa1f13,Injector,Injector,Core_FuelEngine,Fuel Engines,1x1x1,FuelEngineInjectorBlock
+4b2109f7-abfc-46b7-b752-f9423b6f2e35,Inline turbocharger (left),Carbureted turbocharger (L),Core_FuelEngine,Fuel Engines,1x1x2,FuelEngineTurboChargerBlockInline
+6ebe5e2b-ef9a-4849-b234-131b25579adf,Inline turbocharger (right),Carbureted turbocharger (R),Core_FuelEngine,Inline turbocharger (left),1x1x2,FuelEngineTurboChargerBlockInline
+33b65ccc-58a0-487d-8b68-a997a71b0bfe,Junction Pipe,3 way T pipe,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+99a71734-3128-4535-bb9c-f69de5277f49,L-Junction Pipe (left),,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+2d546425-921e-4900-b249-fa5a1c7d5513,L-Junction Pipe (right),,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+25575b2b-223c-48f3-ab6f-7133d26e86e8,Large Radiator,,Core_FuelEngine,Fuel Engines,3x3x1,FuelEngineRadiatorBlock
+da59d582-9254-4091-988e-b670dcabe84a,Radiator,,Core_FuelEngine,Fuel Engines,1x1x1,FuelEngineRadiatorBlock
+a160804b-15cc-46e2-8ffb-401c2aa01de6,Straight Pipe,,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+c27e460b-f3c3-4716-b20a-69f766d27f34,Straight Pipe (2m),,Core_FuelEngine,Exhaust,1x1x2,ExhaustComponent
+6d0d9986-5871-4e5c-a415-6457552595eb,Straight Pipe (3m),,Core_FuelEngine,Exhaust,1x1x3,ExhaustComponent
+663d3348-9700-487e-a30e-f472d933e859,Straight Pipe (4m),,Core_FuelEngine,Exhaust,1x1x4,ExhaustComponent
+47da23fc-17bb-4a66-9c6d-fb66fddb3be6,Supercharger,,Core_FuelEngine,Fuel Engines,1x1x1,FuelEngineSuperChargerBlock
+e0f9e669-4748-4cde-be95-58e47e094253,Throughput Pipe,Throughput pipe defunct,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+6209370e-abeb-4ec1-b523-dc21ea33fe0c,Turbocharger (left),Cylinder turbocharger (L),Core_FuelEngine,Inline turbocharger (left),1x2x1,FuelEngineTurboChargerBlock
+91cca4a9-a40f-43eb-9ba5-34c738b03d1f,Turbocharger (right),Cylinder turbocharger (R),Core_FuelEngine,Inline turbocharger (left),1x2x1,FuelEngineTurboChargerBlock
+542cacd4-c366-4a76-8d01-4ace6c5ce619,X-Junction Pipe,,Core_FuelEngine,Exhaust,1x1x1,ExhaustComponent
+ac0f55b9-5ada-4109-9a86-31702c5597cd,Anti roll bar 3m,Anti roll bar 3m,Core_Land,Land,3x1x1,AntiRollBar
+6ff28fd1-9106-45a9-9d55-2e9af5587d1b,Anti roll bar 5m,Anti roll bar 5m,Core_Land,Land,5x1x1,AntiRollBar
+50cd1e03-a9f0-4ad3-9385-16b700e53008,Anti roll bar 7m,Anti roll bar 7m,Core_Land,Land,7x1x1,AntiRollBar
+11703027-0d9f-4acf-ab01-c7f2e55126c9,Anti roll bar 9m,Anti roll bar 9m,Core_Land,Land,9x1x1,AntiRollBar
+e69cbb14-5df0-4645-8f11-93ce51207ff8,Balloon Wheel 3m,Wide drive wheel 3m,Core_Land,Land,2x3x3,DriveWheel3m
+81db2a62-75ff-4d9a-aecb-10d3f8f4a47e,Balloon Wheel 3m mirror,Wide drive wheel 3m mirror,Core_Land,Land,2x3x3,DriveWheel3m
+da173fac-8673-4ef7-aae5-d089e78ea6ce,Balloon Wheel 5m,Wide drive wheel 5m,Core_Land,Land,3x5x5,DriveWheel5m
+bca2b4e8-2216-448b-b254-927833620756,Balloon Wheel 5m mirror,Wide drive wheel 5m mirror,Core_Land,Land,3x5x5,DriveWheel5m
+435fd3cc-7a4e-45f4-b47d-47a5cdd9a4fc,Balloon Wheel 5m turning,Wide turning wheel 5m,Core_Land,Land,3x5x5,TurnWheel5m
+dddf2251-d1e6-4792-9270-c9250b610733,Balloon Wheel 5m turning mirror,Wide turning wheel 5m mirror,Core_Land,Land,3x5x5,TurnWheel5m
+6cf7ba0b-eee5-48a8-a714-f8a6ce76d186,Balloon Wheel Turning 1m,Wide turning wheel 1m,Core_Land,Land,2x1x1,TurnWheel
+24032540-b488-4316-ada1-44952bd2bb0e,Balloon Wheel Turning 1m mirror,Wide turning wheel 1m mirror,Core_Land,Land,2x1x1,TurnWheel
+9c92daaf-654d-4e4e-9976-c7348ee7898d,Balloon Wheel Turning 3m,Wide turning wheel 3m,Core_Land,Land,2x3x3,TurnWheel3m
+f601a728-1a00-4d9e-b23c-f78064cbf3a5,Balloon Wheel Turning 3m mirror,Wide turning wheel 3m mirror,Core_Land,Land,2x3x3,TurnWheel3m
+91ef14fd-da81-4010-bfa6-0a9aafc7112b,Balloon wheel 1m,Wide drive wheel 1m,Core_Land,Land,2x1x1,DriveWheel
+1e978876-5c69-45f1-9ba1-40b5ae560f9e,Balloon wheel 1m mirror,Wide drive wheel 1m mirror,Core_Land,Land,2x1x1,DriveWheel
+88c3c6c4-c831-40ee-a8a4-ad3574556874,Clampy Foot,Clampy foot,Core_Land,Land,1x1x1,ClampyFoot
+f18d051c-2aad-4287-823e-997499716da1,Mock Wheel,Mock wheel,Core_Land,Land,1x1x1,MockWheel
+4b4bdd8a-e01c-4d77-8228-e19e241ad623,Mock Wheel Mirror,Mock wheel mirror,Core_Land,Land,1x1x1,MockWheel
+e3cc9c71-2cd1-46b8-8198-e4f578591dd9,Sticky Foot,Sticky foot,Core_Land,Land,1x1x1,StickyFoot
+f3f7620a-f281-4a3a-a75e-0106ef9c4eb8,Wheel,Drive wheel 1m,Core_Land,Land,1x1x1,DriveWheel
+4363ead8-3cdd-4d95-b461-193dc928790d,Wheel (turning),Turning wheel 1m,Core_Land,Land,1x1x1,TurnWheel
+2ec29b39-8a90-475b-b116-e62c83db3e97,Wheel 3m,Drive wheel 3m,Core_Land,Land,1x3x3,DriveWheel3m
+c05c88aa-96df-461e-832f-7d5591a24972,Wheel 3m (turning),Turning wheel 3m,Core_Land,Land,1x3x3,TurnWheel3m
+a5bb808a-ef3d-4262-84a6-6d245e3735ea,Wheel 3m mirror,Drive wheel 3m mirror,Core_Land,Land,1x3x3,DriveWheel3m
+22524171-87ab-4fc3-80fb-ac5690b624b3,Wheel 3m mirror (turning),Turning wheel 3m mirror,Core_Land,Land,1x3x3,TurnWheel3m
+4ae3bc3c-c39e-4d6b-afab-d0e34d783bc5,Wheel 5m,Drive wheel 5m,Core_Land,Land,1x5x5,DriveWheel5m
+c9c226ff-ebd3-4394-b6d5-d4796e0dd149,Wheel 5m (turning),Turning wheel 5m,Core_Land,Land,1x5x5,TurnWheel5m
+78d6177b-345c-43d6-8e34-b28bf0a82659,Wheel 5m mirror,Drive wheel 5m mirror,Core_Land,Land,1x5x5,DriveWheel5m
+15d4be68-edf9-44ed-bfda-5522cd9da33f,Wheel 5m mirror (turning),Turning wheel 5m mirror,Core_Land,Land,1x5x5,TurnWheel5m
+c384fa33-67c3-4915-a878-4245f4cdcecc,Wheel mirror,Drive wheel 1m mirror,Core_Land,Land,1x1x1,DriveWheel
+a4fdfea1-1254-4f7b-9346-124dddb595bd,Wheel mirror (turning),Turning wheel 1m mirror,Core_Land,Land,1x1x1,TurnWheel
+575187d2-ff5c-4d42-9937-0206cffbd883,Armored Laser Optics,Armoured laser optics,Core_Laser,Laser Systems,1x1x1,LaserFocusOptics
+9aa6b3c3-2569-473e-9d28-2b2cb17bc7a3,Armored Laser Steering Optics,Armoured steering optics,Core_Laser,Laser Systems,1x1x1,LaserSteeringOptics
+fb1fb4c7-78e8-47e7-8ff1-34a4afcd10c7,Frequency Doubler,Frequency doubler,Core_Laser,Laser Systems,1x1x1,LaserFrequencyDoubler
+9385face-922e-4158-9632-7ab9fcb00166,Laser Anti-Munition Defence,LAMS node,Core_Laser,Laser Systems,1x1x1,LaserMissileDefence
+b6ac5f2e-907e-4926-88c0-355d30c6b7a5,Laser Cavity,Cavity,Core_Laser,Laser Systems,1x1x1,LaserCavity
+8acc506a-41cf-4b62-ab1f-e6f523baf75b,Laser Colorer,Laser colourer,Core_Laser,Laser Systems,1x1x1,LaserColorer
+7dc67bed-fd0f-4145-9525-5840bbcc4822,Laser Combiner,Laser combiner,Core_Laser,Laser Systems,1x1x1,LaserCombiner
+9c09eee2-e4bd-42ea-aaec-43a6d1451db3,Laser Connector,Laser connector,Core_Laser,Laser Systems,1x1x1,LaserConnector
+db2a5655-6b32-4877-8285-40c6ddc9ba3c,Laser Coupler,Laser coupler,Core_Laser,Laser Systems,1x1x1,LaserCoupler
+f2f1f8f5-92b5-4047-9ec7-de86d8608583,Laser Cutter,Laser cutter,Core_Laser,Laser Systems,1x1x1,LaserCutter
+d73b886e-2498-4c17-9346-a85f77d4a454,Laser Destabiliser,Laser destabiliser,Core_Laser,Laser Systems,1x1x1,LaserDestabiliser
+464187d2-ff5c-4d42-9937-0206cffbd883,Laser Optics,Laser optics,Core_Laser,Laser Systems,1x1x1,LaserFocusOptics
+ef2e81c1-d06d-474f-b12c-14de1702db1b,Laser Pump,Laser pump,Core_Laser,Laser Systems,1x1x1,LaserPump
+57c4c674-9c66-4ab7-9067-81477824785d,Laser Pump (3m),Laser pump (3m),Core_Laser,Laser Systems,3x1x1,LaserPump
+31047680-b58e-407a-9f39-1b59fd656e13,Laser Q switch,Q switch,Core_Laser,Laser Systems,1x1x1,LaserQSwitch
+8996b3c3-2569-473e-9d28-2b2cb17bc7a3,Laser Steering Optics,Laser steering optics,Core_Laser,Laser Systems,1x1x1,LaserSteeringOptics
+139d4b6a-2b6b-4bfa-8d00-1bc8e69923fd,Laser Transceiver,Laser transceiver,Core_Laser,Laser Systems,1x1x1,LaserTransceiver
+c0542188-97dc-4cd5-a275-ede25d9797ba,Laser Wavefront Adjuster,Laser wavefront adjuster,Core_Laser,Laser Systems,1x1x2,LaserWavefrontCoder
+5031a9db-aa48-4903-9b16-75a54f5959ce,Multipurpose Laser,Multipurpose laser,Core_Laser,Laser Systems,1x1x1,LaserMultipurpose
+ad1accc2-e4bd-42ea-aaec-43a6d1451db3,Output Regulator,Laser output regulator,Core_Laser,Laser Systems,1x1x1,LaserOutputRegulator
+2eea241a-6a32-41c6-a9e4-d082c7e854de,PAC lens (rear inputs),Long range lens (rear inputs),Core_Laser,Particle Cannons,3x3x3,ParticleCannonSniperRearInputs
+9896747c-39a5-43bc-8ba9-ccf2f645cca1,PAC lens (symmetric),Long range lens (symmetric),Core_Laser,Particle Cannons,3x3x3,ParticleCannonSniperSymmetric
+f1746662-adec-4054-98bd-94b553bc6c6d,Particle Accelerator Lens,Short range lens,Core_Laser,Particle Cannons,1x1x1,ParticleCannonCloseRange
+3d82f1a3-ad2a-4e81-a4e3-cb88c968f6e9,Particle Cannon,Long range lens,Core_Laser,Particle Cannons,3x3x3,ParticleCannonSniperAsymmetric
+ebe5e7f6-894e-450c-b602-710538e82486,Particle Cannon Mirror,Long range lens (Mirror),Core_Laser,Particle Cannons,3x3x3,ParticleCannonSniperAsymmetricMirror
+3c3d8cda-b79d-47a5-9bc4-378daf3d4358,Particle Input Port,Particle input port,Core_Laser,Particle Cannons,1x1x1,ParticleCannonPipeInputPort
+2099a233-181e-4f50-9a0e-78a547969a8e,Particle Melee Lens,Melee PAC lens,Core_Laser,Particle Cannons,1x1x1,ParticleCannonMeleeLens
+73be5bb2-53f2-4cdc-abcd-6264837a44c2,Particle Tube 2m,Particle tube 2m,Core_Laser,Particle Cannons,1x1x2,ParticleCannonPipe
+b9c6a6bf-a61a-44eb-bf89-ee414711fed2,Particle Tube 3m,Particle tube 3m,Core_Laser,Particle Cannons,1x1x3,ParticleCannonPipe
+58f677fa-2af3-453e-8f63-9b4e0a13c968,Particle Tube 4m,Particle tube 4m,Core_Laser,Particle Cannons,1x1x4,ParticleCannonPipe
+1ab5006c-9156-4605-a670-68e1c2eb2e9a,Particle Tube Corner,Particle tube corner,Core_Laser,Particle Cannons,1x1x1,ParticleCannonPipeCorner
+b799b159-3bab-45f8-92e4-3107bca46513,Particle Tube Terminator,Particle tube terminator,Core_Laser,Particle Cannons,1x1x1,ParticleCannonPipeEnd
+48678652-cad7-40ae-918f-af432b37fdf9,Particle tube 1m,Particle tube 1m,Core_Laser,Particle Cannons,1x1x1,ParticleCannonPipe
+e581b7dc-da92-421d-9262-a5781c287728,Plasma firingpiece,Plasma firing piece,Core_Laser,Laser Systems,1x1x1,
+ad861a50-c881-4aa2-839b-d1248a810c77,Plasma heater,Plasma heater,Core_Laser,Laser Systems,1x1x1,
+172c1b1f-9dc0-41c8-885c-aba814e4fe08,Plasma storage,Plasma storage,Core_Laser,Laser Systems,1x1x1,
+c51bd0a9-99a7-463a-b20a-fe2e484ab26e,Plasma tranciever,Plasma tranciever,Core_Laser,Laser Systems,1x1x1,
+fd2b6afb-da6f-4a8e-bfc0-e4202b87300d,Short Range Laser Combiner,Short range laser combiner,Core_Laser,Laser Systems,1x1x3,ShortRangeLaser
+d7e26b38-f5a3-4ae3-9486-66d63222b336,Single Input Laser Cavity,Single input cavity,Core_Laser,Laser Systems,1x1x1,LaserCavity
+1a1c9de5-6db5-4092-97ac-a4883383fadd,Small PAC lens (cross inputs),Scatter lens,Core_Laser,Particle Cannons,1x1x3,ParticleCannonScatter
+2e429412-2982-4335-bf3c-a6c6609c8cbf,Small PAC lens (rear inputs),Vertical lens,Core_Laser,Particle Cannons,1x2x3,ParticleCannonVertical
+45ce64f5-86ca-425a-8074-7603cdfc1d4a,Storage Laser Cavity,Laser storage cavity,Core_Laser,Laser Systems,3x3x1,LaserCavity
+98f097c1-d838-4a3e-8a25-b93518b5b45d,Superheating modulator,Superheating modulator,Core_Laser,Laser Systems,1x1x1,LaserSuperheater
+328006a1-123f-432a-b18b-601dd1284247,ACB Controller,ACB Controller,Core_Misc,Control,1x1x1,AcbController
+7d3ca7b4-1b99-4e18-a1ee-498fa86b3ef4,Adventure Bell,Adventure Bell,Core_Misc,Miscellaneous,1x1x1,AdventureBell
+585b5669-d551-4bbe-b9ee-f7e3c1802773,Articulated chair,,Core_Misc,Control,1x1x1,ArticulatedChair
+a3d914e9-697d-425f-abda-a6b21b4de952,Automated Control Block,ACB,Core_Misc,Control,1x1x1,ControlBlock
+d4806e59-5ebe-40b1-b223-c8232691396d,BoomBlock,Boom block,Core_Misc,Miscellaneous,1x1x1,BoomBlock
+7fcfdaf0-2d2a-43be-842a-423e736ccdd0,Bread Board,Non-AI bread board,Core_Misc,Control,1x1x1,BreadBoard
+f4138d11-e258-4925-9a8e-1b0054e4b82b,Chaff Emitter,Chaff emitter,Core_Misc,Countermeasure,1x1x1,ChaffEmitter
+0706d2b0-c244-4e0f-8577-79338cb073cf,Chair,Chair,Core_Misc,Control,1x1x1,Chair
+46fc87ec-0f7f-4c55-a5d3-721365c5f364,Compact Repair Tentacle,Compact repair tentacle,Core_Misc,Miscellaneous,1x1x1,RepairOtherStatic
+6a04c57e-0076-4f30-9f99-f92eba7fcd53,Complex Controller,Complex controller,Core_Misc,Control,1x2x1,ComplexController
+1240b6db-1f41-442a-88ce-5ab0944d804b,Control Terminal,Control terminal,Core_Misc,Control,1x1x1,ControlTerminal
+e961fe5b-cce0-4a1e-8742-936ab8088636,Dish piece,Dish piece,Core_Misc,AI,1x1x1,Dish
+7e9abf0f-84a7-44e6-b4c3-e3da6f942072,Docking station,Docking station,Core_Misc,Miscellaneous,1x1x4,TractorBeam
+07d89ff6-b780-47af-b0bb-ed1aa6c04104,Docking station 1m,Docking station 1m,Core_Misc,Docking station,1x1x1,TractorBeam
+d24cdfe7-bb26-403d-a854-dfa77506e5fb,Drive maintainer,Drive maintainer,Core_Misc,Control,1x1x1,DriveMaintainer
+2e715d3f-349f-41e1-bd89-7f685939d5aa,Elevated Chair,Elevated Chair,Core_Misc,Control,1x1x1,Chair
+5b609887-c1dd-407b-b3b6-b1eb35d1e818,Fire control computer,Fire control computer,Core_Misc,Control,1x2x1,FireControlComputer
+20100af6-ccd1-41ff-b7b0-5d2f6bb99f85,Fortress Controller,Fortress controller,Core_Misc,Control,1x2x1,FortressController
+6a7c1ad1-21e5-4b2e-bf04-cc08d639313c,Heart Stone,Heart stone,Core_Misc,Miscellaneous,1x1x1,HeartStone
+7cd6a310-cf17-4f6d-a818-8f29d029778f,Heart Stone Extension,Heart stone extension,Core_Misc,Miscellaneous,1x1x1,HeartStoneExtension
+4576e3fe-8eda-4e24-9823-eb68e4a9c953,Heat Decoy,Heat decoy,Core_Misc,Countermeasure,1x1x1,HeatDecoy
+d3924bae-be5a-43a0-be19-64fc7c8d6059,LUA Box,LUA box,Core_Misc,Control,1x1x1,LuaBox
+4530f64d-a4d9-465c-8160-e69ddcc29d9d,Munition decorator,,Core_Misc,Missiles,1x1x1,MunitionDecorator
+f817665f-e59a-43a0-9c86-0d39f64b594a,Origin block,Origin block,Core_Misc,Miscellaneous,1x1x1,OriginBlock
+ceed114a-ddb5-47d4-9b7a-ef1ce9398e09,PID (General Purpose),PID (general purpose),Core_Misc,Control,1x1x1,PIDGP
+8dd0863a-d0c7-4cc9-b583-d7482d0459a2,Radar Decoy,Radar decoy,Core_Misc,Countermeasure,1x1x1,RadarDecoy
+ad96a3cc-119e-4842-86cd-c633b1c702bb,Remote Vehicle Controller,Remote vehicle controller,Core_Misc,Control,1x2x1,RemoteVehicleController
+bf0db0d2-8582-41d2-bcfe-5299bec3d06b,Repair Bot,Repair bot,Core_Misc,Miscellaneous,1x1x1,RepairSelf
+0b59767f-dcf2-43f3-895b-d876afed0063,Repair Tentacle,Repair tentacle,Core_Misc,Miscellaneous,1x1x1,RepairOther
+3af29052-8fa5-4998-a0e0-b3ea188d8860,Respawning beacon,Respawning beacon,Core_Misc,Miscellaneous,1x2x1,SpawnBeacon
+e6b63003-67cc-4884-87ef-f791b1a3a30c,Separator (1m),Separator (1m),Core_Misc,Subobjects,1x1x1,Separator
+26622409-60f8-43dd-afb9-f33853bf50c1,Separator (3m),Separator (3m),Core_Misc,Subobjects,3x3x1,Separator
+9ce5e591-bb6b-4827-91af-5c8530210516,Separator Attachment (1m),Separator Attachment (1m),Core_Misc,Subobjects,1x1x1,AttachmentPoint
+12904332-3830-42bd-b34a-3cb522e2c6d6,Separator Attachment (3m),Separator Attachment (3m),Core_Misc,Subobjects,3x3x1,AttachmentPoint
+f7042d78-d7ae-4a0b-b273-197813c61648,Shield Projector,Planar shield projector,Core_Misc,Countermeasure,1x1x1,ShieldProjector
+936f57b0-0376-411e-a9c2-776681111efc,Ship's wheel,Ship's wheel,Core_Misc,Control,1x2x1,ShipsWheel
+2133d1cd-0307-44e8-b156-5aecf3625230,Sonar Decoy,Sonar decoy,Core_Misc,Countermeasure,1x1x1,SonarDecoy
+042cfada-38db-4af5-a1c8-13ddce0da29c,Spin Block Controller,Spin block controller,Core_Misc,Control,1x2x1,SpinBlockController
+5ea1b039-9f46-45ac-b8d3-ba837f10f069,Strategic Antenna,Strategic antenna,Core_Misc,AI,1x1x4,Antenna
+58e7abb1-de9f-47f9-864b-d5c8218f1769,Subvehicle Spawner,Subvehicle spawner,Core_Misc,Miscellaneous,1x1x1,SubvehicleSpawner
+9a564782-3a07-472b-ae06-5a7dfd123e7d,Surge Protector,Surge protector,Core_Misc,Blocks,1x1x1,SurgeProtector
+c125728d-3952-44cd-939e-84f8290fbd9f,Surge Protector 2m,Surge protector 2m,Core_Misc,Surge Protector,1x1x2,SurgeProtector
+86fc7d73-2558-4dce-ad25-0825d2786063,Surge Protector 3m,Surge protector 3m,Core_Misc,Surge Protector,1x1x3,SurgeProtector
+ac2d906e-4ff2-47bf-a8a8-4381a50ad5bc,Surge Protector 4m,Surge protector 4m,Core_Misc,Surge Protector,1x1x4,SurgeProtector
+06484d1a-d956-49a4-b9de-e779696d001c,Tactical Nuke,Tactical nuke,Core_Misc,Simple weapons,1x2x1,AprilFirst
+4c352619-ef4f-4919-b64c-ef11d4435754,Teleport pad,Teleport pad,Core_Misc,Miscellaneous,3x3x1,TeleportPad
+14930ee7-6795-44f4-ab26-a55a67e8ce01,Text Screen,Text screen,Core_Misc,Sign Post,1x1x1,TextBlock
+ae2bb239-d304-4037-b35d-eb7d3ded91bf,Thrust Controller,Thrust controller,Core_Misc,Control,1x2x1,ThrustController
+d43b5a55-9e60-48f9-9e77-ac1cfa97dafa,Vehicle Blueprint Spawner,Vehicle blueprint spawner,Core_Misc,Miscellaneous,1x1x2,Spawner
+2ed46940-a47c-4283-bf5d-6b52132da9b4,Vehicle Controller,Vehicle controller,Core_Misc,Control,1x2x1,VehicleController
+c6b9d38c-01e5-4a37-8493-2b7f7f1d74fb,Vehicle Controller Small,Vehicle controller Small,Core_Misc,Vehicle Controller,1x1x1,VehicleController
+251a3c8a-62d7-41bd-a648-268e3b1c2c83,Video Controller,Video controller,Core_Misc,Display,1x1x1,VideoController
+7d005e15-c63a-44f0-b12e-b8599a9f0424,Widget,,Core_Misc,Crystal growth farm,1x1x1,
+22c7914a-d836-4b41-93e7-7de9e3b9b11e,Wireless Camera,Wireless camera,Core_Misc,Control,1x1x1,WirelessCamera
+154e5001-729c-4a9f-983b-342d3092a0f3,Connector,Connector,Core_Missile,Missiles,1x1x1,MissileBlockConnector
+310a7a9a-8d4e-4365-a877-1a8e2bac2a81,Controller,Controller,Core_Missile,Missiles,1x1x1,MissileControl
+86a6eb4b-cb64-4451-9dc5-94efff6b8ed6,Ejector Add On,Ejector add-on,Core_Missile,Missiles,1x1x1,MissileBlockLaunchEjector
+874113a3-3f91-4615-a9fb-008a83566803,Huge Gantry,Huge gantry,Core_Missile,Huge Launcher,3x4x2,GantryHugeHeavy
+5697891b-f3d6-4587-9a86-bd4faa29171e,Huge Hatch,,Core_Missile,Huge Launcher,5x5x2,HatchHuge
+6fc05823-7905-4b5e-bde0-858010860e91,Huge Launcher,Huge launcher,Core_Missile,Missiles,3x4x1,LaunchpadHugeHeavy
+9eedfe02-5a15-45c1-b785-56f5aea76145,Huge Rail Gantry,,Core_Missile,Huge Launcher,3x4x2,GantryHugeLight
+56b8c974-6eb9-4ef4-888d-aeaba3bcf7a2,Huge Rail Gantry (invisible),Huge invisible rail gantry,Core_Missile,Huge Launcher,3x4x2,GantryHugeLight
+9bff4b97-c652-4da7-99df-ab4a1bd5551e,Huge Rail Launcher,Huge rail launcher,Core_Missile,Huge Launcher,3x4x2,LaunchpadHugeLight
+4aa8cfcb-7aeb-430b-9726-f8bb8d8f4124,Identify Friend Or Foe Add-on,Identify friend or foe add-on,Core_Missile,Missiles,1x1x1,MissileBlockIFF
+dc17bd30-20ac-47c3-9c42-af6b3cdebf6e,LUA Transceiver,LUA transceiver,Core_Missile,Missiles,1x1x1,MissileBlockLuaTransceiver
+87d9e52e-6386-4e93-ae29-aab2522f3edb,Large Gantry,Large gantry,Core_Missile,Large Launcher,2x2x1,GantryLargeHeavy
+cd788eca-ec52-40d2-bf17-48a6d47e569e,Large Gantry Left,,Core_Missile,Large Launcher,2x2x1,GantryLargeHeavy
+6a166a7c-dc50-401c-8498-3a7d6b7f09e7,Large Launcher,Large launcher,Core_Missile,Missiles,2x2x1,LaunchpadLargeHeavy
+9424812a-274e-4223-a3ae-9ee86a7db46b,Large Launcher (reversed),Large launcher (reversed),Core_Missile,Large Launcher,2x2x1,RearLaunchLaunchpadLarge
+7f797f00-46fc-42a6-888d-71bd3ed9af02,Large Launcher (reversed) left,Large launcher (reversed) left,Core_Missile,Large Launcher,2x2x1,RearLaunchLaunchpadLarge
+43d357dd-d896-4f43-a0ff-8c3b091267c4,Large Launcher Left,,Core_Missile,Large Launcher,2x2x1,LaunchpadLargeHeavy
+9815045c-62a7-4bef-90f6-b385a26754ca,Large Missile Hatch 2x2,2x2 hatch,Core_Missile,Large Launcher,2x2x1,HatchLarge2x2
+a85fe5af-6d4a-4fcb-9744-d9d23fff5046,Large Missile Hatch 2x2,,Core_Missile,Large Launcher,2x2x1,HatchLarge2x2
+eb38713d-831b-4118-8dad-a6551c1f7268,Large Missile Hatch 4x4,4x4 hatch,Core_Missile,Large Launcher,4x4x1,HatchLarge
+98a9e52e-6386-4e93-ae29-aab2522f3edb,Large Rail Gantry,Large rail gantry,Core_Missile,Large Launcher,2x2x1,GantryLargeLight
+76c9e52e-6386-4e93-ae29-aab2522f3edb,Large Rail Gantry (invisible),Large invisible rail gantry,Core_Missile,Large Launcher,2x2x1,GantryLargeLight
+c0a9174a-0685-48cc-a930-a3dadf614936,Large Rail Gantry (invisible) left,,Core_Missile,Large Launcher,2x2x1,GantryLargeLight
+437fdc18-7d37-47d1-81f9-79aede662a26,Large Rail Gantry Left,,Core_Missile,Large Launcher,2x2x1,GantryLargeLight
+54a66bcd-dc50-401c-8498-3a7d6b7f09e7,Large Rail Launcher,Large rail launcher,Core_Missile,Large Launcher,2x2x1,LaunchpadLargeLight
+77b3c67d-f649-438c-8e24-5779c0f0bdbf,Large Rail Launcher Left,,Core_Missile,Large Launcher,2x2x1,LaunchpadLargeLight
+6222ad4d-f6d8-48c0-9f27-10e2b64d7481,Laser Emitter,Laser emitter,Core_Missile,Missiles,1x1x1,MissileBlockLaser
+b1ef236a-9ecb-406c-b4f0-6ef0fbb50bd1,Medium Gantry,Medium gantry,Core_Missile,Medium Launcher,1x1x1,GantryMediumHeavy
+8bb3a572-1dd2-4bf4-a6a2-83698310ea82,Medium Gantry + Aerodynamic Hatch,Aerodynamic hatched gantry,Core_Missile,Medium Launcher,1x1x2,HatchMediumAero
+ddde6a1e-6273-4bd9-ba1d-cb3380f38408,Medium Gantry + Hatch,Medium hatched gantry,Core_Missile,Medium Launcher,1x2x1,HatchMedium
+bfb82ee6-345a-44a4-84e1-d6706cc8b29d,Medium Launcher,Medium launcher,Core_Missile,Missiles,1x1x1,LaunchpadMediumHeavy
+c743b888-a53c-42b8-b4f0-3afc6d763617,Medium Launcher (reversed),Medium reversed launch pad,Core_Missile,Medium Launcher,1x1x1,RearLaunchLaunchpad
+44cdf22f-f4b9-43bc-aaff-2d4ae6c80503,Medium Rail Gantry,Medium rail gantry,Core_Missile,Medium Launcher,1x1x1,GantryMediumLight
+912404d2-30c9-47c5-8430-5e2834b64271,Medium Rail Gantry (invisible),Medium invisible rail gantry,Core_Missile,Medium Launcher,1x1x1,GantryMediumLight
+8ba7a591-3923-4344-9f87-0588c6a1aba0,Medium Rail Launcher,Medium rail launcher,Core_Missile,Medium Launcher,1x1x1,LaunchpadMediumLight
+72091a02-bab4-40a7-9ee0-4c180ee24f99,Missile Radar Buoy Holder,Missile radar buoy holder,Core_Missile,Wireless Snooper,1x1x1,RadarBuoyHolder
+2be9c88d-be24-4880-aa12-ea8dc685a726,Missile Sonar Buoy Holder,Missile sonar buoy holder,Core_Missile,Wireless Snooper,1x1x1,SonarBuoyHolder
+88ec2d62-1b2c-4f0c-b513-6e1a2d772b1f,Missile breadboard controller,Missile breadboard controller,Core_Missile,Missiles,1x1x1,MissileBreadboardBlock
+bc3f4b55-39b3-4a99-9823-fe57ec15aa41,Missile wireless receiver,,Core_Missile,Missile wireless transmitter,1x1x1,MissileWirelessReceiver
+f4df33ca-5cc4-4bf1-b0de-030b7e3586a3,Missile wireless transmitter,,Core_Missile,Missiles,1x1x1,MissileWirelessTransmitter
+639405b3-d2bf-4eb6-aef3-72f7e62bf151,Small Gantry,Small gantry,Core_Missile,Small Launcher,1x1x1,GantrySmallHeavy
+2cf00d3a-02a2-4d77-a432-9b1e7d52aa3a,Small Gantry + Hatch,Small hatched gantry,Core_Missile,Small Launcher,1x1x1,HatchSmall
+1b9aa074-9b04-4b5c-b30e-35bdfa0e0835,Small Launcher,Small launcher,Core_Missile,Missiles,1x1x1,LaunchpadSmallHeavy
+26b0f142-9419-41f1-9c13-3a2b62437f60,Small Launcher (Reversed),Small launcher (reversed),Core_Missile,Small Launcher,1x1x1,RearLaunchLaunchpadSmall
+8cfd4184-ee25-4431-8c83-b9f0bf214625,Small Rail Gantry,Small rail gantry,Core_Missile,Small Launcher,1x1x1,GantrySmallLight
+f0bc9808-c1d6-49c4-967e-3ff2de9379cf,Small Rail Gantry (invisible),Small invisible rail gantry,Core_Missile,Small Launcher,1x1x1,GantrySmallLight
+a7aaf947-f16c-489b-a10e-b48d03e0d209,Small Rail Launcher,Small rail launcher,Core_Missile,Small Launcher,1x1x1,LaunchpadSmallLight
+9dfd4184-ee25-4431-8c83-b9f0bf214625,Small Single Rail Gantry,Small single rail gantry,Core_Missile,Small Launcher,1x1x1,GantrySmallLightSingle
+f1cc9808-c1d6-49c4-967e-3ff2de9379cf,Small Single Rail Gantry (invisible),Small invisible single rail gantry,Core_Missile,Small Launcher,1x1x1,GantrySmallLightSingle
+b8bbf947-f16c-489b-a10e-b48d03e0d209,Small Single Rail Launcher,Small single rail launcher,Core_Missile,Small Launcher,1x1x1,LaunchpadSmallLightSingle
+d30acc39-3742-47bd-82de-f5e1b9af565d,Staggered fire add-on,Staggered fire add-on,Core_Missile,Missiles,1x1x1,MissileBlockStaggeredFire
+b0c166d0-c6dd-4328-97a9-335c25fff2fb,Winch,Winch,Core_Missile,Missiles,1x1x1,MissileWinch
+79eaae57-56e1-4bb5-a573-bb9c829e8c8e,Nuclear Containment Corner,Nuclear Containment Corner,Core_NuclearEngine,Nuclear Engines,2x2x2,Block
+b7b36555-0ab1-4a64-ba01-3017e4809cf6,Nuclear Containment Platform,Nuclear Containment Platform,Core_NuclearEngine,Nuclear Engines,2x2x2,Block
+1980c435-9871-470c-973e-9253f8a3b122,Nuclear Containment Wall,Nuclear Containment Wall,Core_NuclearEngine,Nuclear Engines,2x2x2,Block
+e4dabc7e-9566-4e7d-8d28-cbec2f811798,Nuclear Containment Wall Corner,Nuclear Containment Wall Corner,Core_NuclearEngine,Nuclear Engines,2x2x2,Block
+23696e3e-a6c7-4ac3-8ba8-884718dd688c,Nuclear Containment Wall Slope,Nuclear Containment Wall Slope,Core_NuclearEngine,Nuclear Engines,2x2x2,Block
+9d5fa98d-ce5c-4e7a-8041-2fee8d28fe35,Nuclear Control Rod,Nuclear Control Rod,Core_NuclearEngine,Nuclear Engines,1x1x4,Block
+078b7202-f156-4936-8ca3-860055a20f1c,Nuclear Engine Core,Nuclear Engine Core,Core_NuclearEngine,Nuclear Engines,3x3x3,Block
+536fa669-d522-465a-a67a-589a07aa09ad,Nuclear Material,Nuclear Material,Core_NuclearEngine,Nuclear Engines,1x2x1,Block
+30e8ed70-1885-444a-9697-a89d5c524690,Nuclear Rod Controller,Nuclear Rod Controller,Core_NuclearEngine,Nuclear Engines,2x2x2,Block
+490e286d-0367-40f2-8ed6-60d70a60bdfd,Nuclear Water inlet and outlet,Nuclear Water inlet and outlet,Core_NuclearEngine,Nuclear Engines,2x2x2,Block
+777dfdef-8c19-4892-b539-e80084223bfb,Plasma Accelerator 2m,Accelerator 2m,Core_Plasma,Plasma Cannons,1x1x2,PlasmaAccelerator
+0cd861cc-cf38-4fd8-b02b-29140316cd45,Plasma Accelerator 4m,Accelerator 4m,Core_Plasma,Plasma Cannons,1x1x4,PlasmaAccelerator
+b4f326cb-64db-46e7-87c3-2d011c58ee2b,Plasma Accelerator 6m,Accelerator 6m,Core_Plasma,Plasma Cannons,1x1x6,PlasmaAccelerator
+d90f51b0-ff15-44c8-8d84-ce7ed263fc8e,Plasma Accelerator 8m,Accelerator 8m,Core_Plasma,Plasma Cannons,1x1x8,PlasmaAccelerator
+c8327813-a7fe-4f2b-b1e2-9d5c7e5e5e27,Plasma Chamber 1m,Chamber,Core_Plasma,Plasma Cannons,1x1x1,PlasmaChamber
+4c3ab614-cc13-4028-a64b-554ffaba7d57,Plasma Chamber 2m,Chamber 2m,Core_Plasma,Plasma Cannons,1x1x2,PlasmaChamber
+e5c97f05-4999-4373-939c-af3a03b2e67c,Plasma Chamber 4m,Chamber 4m,Core_Plasma,Plasma Cannons,1x1x4,PlasmaChamber
+7c979384-c633-475d-8a7c-008843f5640c,Plasma Collector,Collector (4 sides),Core_Plasma,Plasma Cannons,1x1x1,PlasmaCollector1m
+6c81cad9-32e3-4056-b39e-0eca91af153d,Plasma Collector 3m,Collector 3m,Core_Plasma,Plasma Cannons,3x1x1,PlasmaCollector3m
+16e04513-83ef-4844-9721-ec6c711f813e,Plasma Collector 3x3,Collector 3x3,Core_Plasma,Plasma Cannons,3x3x1,PlasmaCollector3x3
+0a9b2870-831a-4148-8a84-4b95652c6a99,Plasma Collector 5m,Collector 5m,Core_Plasma,Plasma Cannons,5x1x1,PlasmaCollector5m
+e57aeec0-562f-41e8-823d-618aaa1f59f1,Plasma Collector Cross,Collector (2 sides),Core_Plasma,Plasma Cannons,1x1x1,PlasmaCollector1m
+fd9e510d-a575-4510-b7ce-81592ebb6959,Plasma Collector Side,Collector 3x3 (side connections),Core_Plasma,Plasma Cannons,3x3x1,PlasmaCollectorSide
+79d580ff-2dc2-42d5-b453-03acde0ef18c,Plasma Connector,Connector,Core_Plasma,Plasma Cannons,1x1x1,PlasmaConnector
+29b3a949-f062-4d96-b53f-0b1acbad4ec4,Plasma Connector 2m,Connector 2m,Core_Plasma,Plasma Cannons,1x1x2,PlasmaConnector
+99eeb4c6-c081-4ccc-b71a-d2179e94be94,Plasma Connector 4m,Connector 4m,Core_Plasma,Plasma Cannons,1x1x4,PlasmaConnector
+1b664796-bb5c-40ee-9db7-6b517c1b28b6,Plasma Connector Hub,Connector Hub,Core_Plasma,Plasma Cannons,1x1x1,PlasmaConnector
+4d9442ec-0a9b-4873-aab5-979c6f02ef7f,Plasma Connector L,Connector (L),Core_Plasma,Plasma Cannons,1x1x1,PlasmaConnector
+6221a261-abf5-416c-8db0-8c0a97f79bc5,Plasma Cooler,Heatsink,Core_Plasma,Plasma Cannons,1x1x1,PlasmaCooler
+9b230797-737a-4ef8-a0e6-fb1a8d069a9a,Plasma Cooler 2m,Heatsink 2m,Core_Plasma,Plasma Cannons,1x1x2,PlasmaCooler
+aa1e2175-119f-437e-b48f-a47f4714bd3b,Plasma Emitter Destabilizer,Magnetic destabilizer,Core_Plasma,Plasma Cannons,1x1x1,PlasmaEmitterDestabilizer
+b5e568e5-67c3-42ba-8c36-b5ba5c431e42,Plasma Emitter Splitter,Magnetic splitter,Core_Plasma,Plasma Cannons,1x1x1,PlasmaEmitterSplitter
+ffb331d2-8f72-4be6-b5e7-99053d71fe85,Plasma Emitter Stabilizer,Magnetic stabilizer,Core_Plasma,Plasma Cannons,1x1x1,PlasmaEmitterStabilizer
+10d94d9c-5ace-4348-ac2d-208a49c2273d,Plasma Generator 1m,Generator,Core_Plasma,Plasma Cannons,1x1x1,PlasmaGenerator
+66c94e72-2465-4e98-9477-353ee614e654,Plasma Generator 2m,Generator 2m,Core_Plasma,Plasma Cannons,1x1x2,PlasmaGenerator
+499e7ed2-204b-4e30-a266-ed42484ec8c5,Plasma Mantlet AA,AA mantlet,Core_Plasma,Plasma Cannons,1x1x1,PlasmaMantletAA
+7a38d880-6322-4e50-ab8c-27808bbd34c1,Plasma Mantlet Forward,Forward mantlet,Core_Plasma,Plasma Cannons,1x1x1,PlasmaMantletForward
+31277649-04ec-45db-adfc-4a7d0a73686a,Ammo Barrel,Ammo barrel,Core_Resource,Resources,1x1x1,AmmoBarrel
+da8f95fa-756d-4968-a217-7b8616fdb89c,Ammo Barrel (empty),Ammo barrel (empty),Core_Resource,Resources,1x1x1,AmmoBarrel
+82b2446e-c12e-436a-8340-76d38372ead1,Ammo Parts Box,Ammo parts box,Core_Resource,Resources,1x1x1,AmmoBarrel
+382b9ebb-03a5-4384-abfa-d7c74f7a9f46,Ammo Parts Box (empty),Ammo parts box (empty),Core_Resource,Resources,1x1x1,AmmoBarrel
+b665e908-9db0-4c06-a209-1a7e9f41f283,Ammunition Processor,Ammo processor,Core_Resource,Crystal growth farm,1x1x2,
+8600329a-4b2b-44c7-8e66-634b0d81ce3d,Battery,Battery,Core_Resource,Resources,1x1x1,Battery
+38e9a85a-ac7d-4cb0-bd43-a5ae2099640c,Battery Storage Beam,Battery storage beam (4m),Core_Resource,Resources,1x1x4,Battery
+56c27d46-39b3-4ac1-b4f7-71c118d8dde9,Battery Storage Large,Battery storage large (3x3),Core_Resource,Resources,3x1x3,Battery
+ee47622e-4eb6-4fd0-81f7-97b33adde8d2,Battery Storage Medium,Battery storage medium (2m cube),Core_Resource,Resources,2x2x2,Battery
+56450137-c20f-4793-972c-fb3fe56ae8d5,Battery Storage Medium (mirror),Battery storage medium (2m cube mirror),Core_Resource,,2x2x2,Battery
+a0a6c5da-d68a-48dd-864f-e7632f8f6fde,Crate,Crate,Core_Resource,Crystal growth farm,1x1x1,
+ce79f42d-107f-4483-91c4-f5520c1d79e6,Crystal growth farm,Box of crystals,Core_Resource,Decorations,3x1x3,
+4270e6e1-4d30-416b-9ed3-5bc64d574148,Crystal growth tray,Tray of crystals,Core_Resource,Crystal growth farm,3x1x3,
+c8fe583a-357b-4fa6-86f1-fc2de639c909,Electric Engine,Electric engine,Core_Resource,Resources,1x1x1,ElectricEngine
+cf1cffd2-27e9-45b7-9720-0025e890f99b,Fancy Material Storage Large,Fancy material storage large,Core_Resource,Wooden Material Storage Small,1x2x2,ResourceContainer
+f05191b9-468c-407b-9601-453a46fbaf1a,Fancy Material Storage Small,Fancy material storage small,Core_Resource,Wooden Material Storage Small,1x2x1,ResourceContainer
+56b29112-55f3-4e0a-9279-f6437adb2847,Fuel Refinery,Refinery,Core_Resource,Resources,3x3x3,FuelRefineryStill
+1327d1ea-c923-44cf-85b0-eb9e1e272167,Fuel Refinery Catalytic Cracker,Catalytic cracker,Core_Resource,Resources,3x3x3,FuelRefineryCatalytic
+6bcaa132-06af-423a-9998-8f73161a2f73,Fuel Refinery Coker,Coker,Core_Resource,Resources,3x3x3,FuelRefineryCoker
+c89978fc-2b10-494d-8824-6717f24a8048,Fuel Refinery Corner Pipe,Refinery corner pipe,Core_Resource,Fuel Refinery Pipe,1x1x1,OilToFuelPipe
+9f97c3df-a0a3-4fa4-8570-094a2e65d8aa,Fuel Refinery Desalter,Desalter,Core_Resource,Resources,3x3x3,FuelRefineryDesalter
+4d9a507f-84a3-456a-8b60-6d1bf48816ca,Fuel Refinery Flare Stack,Flare stack,Core_Resource,Resources,1x8x1,FuelRefineryFlarestack
+442dd6e0-29d0-4457-9fa8-72deb3f25b62,Fuel Refinery Hull Pipe,Refinery hull pipe,Core_Resource,Fuel Refinery Pipe,1x1x1,OilToFuelPipe
+3b3b8073-7bde-4184-836b-3f1c8418eee4,Fuel Refinery Junction Pipe,Refinery junction pipe,Core_Resource,Fuel Refinery Pipe,1x1x1,OilToFuelPipe
+e3629274-8e2e-41ed-8315-d84f8db05995,Fuel Refinery L-Junction Pipe (left),Refinery l-junction pipe (left),Core_Resource,Fuel Refinery Pipe,1x1x1,OilToFuelPipe
+c0b07b2b-3e92-4ba7-896e-71ff7284de03,Fuel Refinery L-Junction Pipe (right),Refinery l-junction pipe (right),Core_Resource,Fuel Refinery Pipe,1x1x1,OilToFuelPipe
+42da61ac-9a3e-4146-9ae4-5d70580e1176,Fuel Refinery Pipe,Refinery pipe,Core_Resource,Resources,1x1x1,OilToFuelPipe
+743fbce9-9073-49b4-aa15-4a22a5a2f1e5,Fuel Refinery Pipe 2m,Refinery pipe 2m,Core_Resource,Fuel Refinery Pipe,1x1x2,OilToFuelPipe
+a783daba-b6c2-4d87-aee8-ee1791f45587,Fuel Refinery Pipe 3m,Refinery pipe 3m,Core_Resource,Fuel Refinery Pipe,1x1x3,OilToFuelPipe
+f21dc267-2735-4e75-a862-d48547d71663,Fuel Refinery Pipe 4 way,Refinery pipe 4 way,Core_Resource,Fuel Refinery Pipe,1x1x1,OilToFuelPipe
+d401bed1-2346-4eef-86aa-c303556f2138,Fuel Refinery Pipe 4m,Refinery pipe 4m,Core_Resource,Fuel Refinery Pipe,1x1x4,OilToFuelPipe
+61683d9c-848c-4ae9-945e-62b12f8b44c3,Fuel Refinery Pipe 5 way,Refinery pipe 5 way,Core_Resource,Fuel Refinery Pipe,1x1x1,OilToFuelPipe
+21260a48-aeea-4ca3-b71a-f16959ed5955,Fuel Refinery Pipe 6 way,Refinery pipe 6 way,Core_Resource,Fuel Refinery Pipe,1x1x1,OilToFuelPipe
+357175b3-cf60-4bad-ab62-109a6b77592d,Fuel Refinery Throughput Pipe,Refinery throughput pipe,Core_Resource,Fuel Refinery Pipe,1x1x1,OilToFuelPipe
+164b642c-c99b-48f7-b001-2aeed1badb33,Fuel Refinery X-Junction Pipe,Refinery x-junction pipe,Core_Resource,Fuel Refinery Pipe,1x1x1,OilToFuelPipe
+5d8870cd-d401-4b52-a3dc-641c02b3b31f,Fuel Storage Box,Fuel storage box,Core_Resource,Resources,1x1x1,FuelTank
+4f87eff7-616b-4663-8f11-cd7a7ddd3649,Fuel Storage Box (2m),Fuel box beam (2m),Core_Resource,Resources,1x1x2,FuelTank
+d40c0a33-eb4f-4fa0-8550-0e7a680eb275,"Fuel Storage Box (2m, empty)","Fuel box beam (2m, empty)",Core_Resource,Resources,1x1x2,FuelTank
+d661f0e7-7f81-4227-80dd-f93aed873630,Fuel Storage Box (3x3m),Large fuel box (3x3),Core_Resource,Resources,3x1x3,FuelTank
+d676e16b-cc4c-4887-944e-77e9d07c7d30,"Fuel Storage Box (3x3m, empty)","Large fuel box (3x3, empty)",Core_Resource,Resources,3x1x3,FuelTank
+9413049d-a4f7-4c1c-8b8a-d2f1f4c18e53,Fuel Storage Box (4m),Fuel box beam (4m),Core_Resource,Resources,1x1x4,FuelTank
+5154dcf9-57f8-48f2-9503-5db1f1dc9ea5,"Fuel Storage Box (4m, empty)","Fuel box beam (4m, empty)",Core_Resource,Resources,1x1x4,FuelTank
+7383557f-abe2-4bcc-849f-89b6c0d02c78,Fuel Storage Box (empty),Fuel storage box (empty),Core_Resource,Resources,1x1x1,FuelTank
+79015536-c137-4c87-a337-99dcf3deff81,Fuel Storage Tank,Fuel storage tank,Core_Resource,Resources,1x1x1,FuelTank
+996cdf27-bebf-4999-9a2d-a54893ba70c6,Fuel Storage Tank (empty),Fuel storage tank (empty),Core_Resource,Resources,1x1x1,FuelTank
+1ddd4971-348f-4e3b-bac7-23b3082792c4,Machinery,Machinery,Core_Resource,Crystal growth farm,3x3x3,Block
+45886651-bb90-4ae9-9a8b-ad6658514f37,Material Gatherer,Material gatherer,Core_Resource,Resources,1x2x1,ResourceGatherer
+8cf1190e-6967-47cc-81c7-7258ec75d70e,Material Storage Locker Large,Locker (large),Core_Resource,Wooden Material Storage Small,2x2x2,ResourceContainer
+adb6b43b-06df-4daa-b8e6-bfaae277d6dd,Material Storage Locker Large (mirror),Locker (large mirror),Core_Resource,,2x2x2,ResourceContainer
+52e52d0c-02d7-4965-a46e-93462e083659,Material Storage Locker Small,Locker (small),Core_Resource,Wooden Material Storage Small,1x1x2,ResourceContainer
+071de01c-2838-485b-bbae-9b3acfdbcdd9,Material Storage Tank Large,Tank (large),Core_Resource,Wooden Material Storage Small,2x2x2,ResourceContainer
+8951fabe-dbbf-4b32-82e2-e36da0b92fdb,Material Storage Tank Large (Head mirror),Tank (large head mirror),Core_Resource,,2x2x2,ResourceContainer
+4ac57cbd-c325-4d49-9e92-71ae3b6a65c6,Material Storage Tank Large (Head),Tank (large head),Core_Resource,Wooden Material Storage Small,2x2x2,ResourceContainer
+abb3675f-8a83-4f48-8bfb-3703a961c205,Material Storage Tank Large (mirror),Tank (large mirror),Core_Resource,,2x2x2,ResourceContainer
+a7ac32e0-c6ad-4663-a543-c9d3a9f2d0ec,Material Storage Tank Small,Tank (small),Core_Resource,Wooden Material Storage Small,1x2x1,ResourceContainer
+f6ab96bf-1d6b-499b-be62-21dd8962d37d,Metal Material Storage Large,Metal material storage(large),Core_Resource,Wooden Material Storage Small,2x2x2,ResourceContainer
+ca9ca28a-3488-405f-8d74-8a609440ee95,Metal Material Storage Large (mirror),Metal material storage(large mirror),Core_Resource,,2x2x2,ResourceContainer
+b63b85fc-685e-454f-8f93-31db02b95a05,Metal Material Storage Small,Metal material storage (small),Core_Resource,Wooden Material Storage Small,1x1x1,ResourceContainer
+d405df88-2c4d-4b33-a051-583defdf72d8,Misc Material Storage Large,Misc. material storage (large),Core_Resource,Wooden Material Storage Small,2x2x2,ResourceContainer
+0eda844f-466e-4855-8f35-bcede968cdf9,Misc Material Storage Large (mirror),Misc material storage (large mirror),Core_Resource,,2x2x2,ResourceContainer
+949d3fba-3b60-49ed-a83b-7180822d6bc0,Misc Material Storage Small,Misc material storage (small),Core_Resource,Wooden Material Storage Small,1x1x1,ResourceContainer
+8fd543c2-5d64-415f-befb-acb627cc1be3,Oil Drill,Oil drill,Core_Resource,Material Gatherer,1x2x1,OilDrill
+063eb06e-57e0-43dd-b85e-90baed4f025c,RTG (2m),RTG (2m),Core_Resource,Resources,1x2x1,RTG
+e8d04f75-a134-452e-a04a-af5172d65040,RTG (3x3m),RTG (3x3m),Core_Resource,Resources,3x3x3,RTG
+344a6bb2-dada-45f3-ba66-6fdbbb57f394,RTG (4m),RTG (4m),Core_Resource,Resources,1x4x1,RTG
+1c146ed1-3b8d-4171-ab72-42668e6827be,Scrap smelter base,Smelter base,Core_Resource,Crystal growth farm,3x1x3,
+8078b4a3-f928-41de-be6e-79ea410e8091,Scrap smelter top,Smelter top,Core_Resource,Crystal growth farm,3x1x3,
+a76daffa-ba3f-4c09-a947-5b694aca4448,Wooden Material Storage Large,Wooden (large),Core_Resource,Wooden Material Storage Small,2x2x2,ResourceContainer
+2a488683-f25b-4ecb-aea6-9a1c96d1e372,Wooden Material Storage Large (mirror),Wooden (large mirror),Core_Resource,,2x2x2,ResourceContainer
+8746f5b3-e2a6-4067-95bc-9da3900690f8,Wooden Material Storage Small,Wooden (small),Core_Resource,Resources,1x1x1,ResourceContainer
+e3311cfd-f4a9-428e-8639-7523c2b42cc6,Ring corner,Corner pipe,Core_RingShields,Shield Generator,1x1x1,RingShieldPipe
+80d4a4bf-2aa4-49da-a67c-4722376d0bc6,Ring pipe,Straight pipe,Core_RingShields,Shield Generator,1x1x1,RingShieldPipe
+61228ef0-e45f-4074-bd16-9dc47b19be5b,Shield Generator,Shield generator,Core_RingShields,Countermeasure,1x1x1,RingShieldGenerator
+0aa0fa2e-1a85-4493-9c4c-0a69c385395d,130mm Casemate,Type L casemated gun,Core_SimpleWeapon,Simple weapons,3x2x3,WorldWarCannonCustomShells
+aa070f63-c454-4f95-82fd-d946a32a1b66,150mm Casemate,Type L(E) casemated gun,Core_SimpleWeapon,Simple weapons,3x3x3,WorldWarCannonCustomShells
+c94e1719-bcc7-4c6a-8563-505fad2f9db9,16 pdr Cannon,16 pdr cannon,Core_SimpleWeapon,Simple weapons,1x1x1,WorldWarCannon
+b92a4ce6-ea93-4c0c-97d7-494ea611caa9,20mm AA gun,T-class 20mm AA gun,Core_SimpleWeapon,Simple weapons,3x2x3,WorldWarCannon
+f9f36cb3-cbfd-446a-9313-40f8e31e6e89,"3.7"" Gun","Type A 3.7"" gun",Core_SimpleWeapon,Simple weapons,3x2x3,WorldWarCannonCustomShells
+1217043c-e786-4555-ba24-46cd1f458bf9,"3.7"" Gun Shield","Type A(L) 3.7"" gun",Core_SimpleWeapon,Simple weapons,3x2x3,WorldWarCannonCustomShells
+742f063f-d0fe-4f41-8717-a2c75c38d5e0,30mm Assault Cannon,30mm assault cannon,Core_SimpleWeapon,Simple weapons,1x1x3,WorldWarCannon
+58305289-16ea-43cf-9144-2f23b383da81,32 pdr Swivel Gun,32 pdr swivel gun,Core_SimpleWeapon,Simple weapons,1x1x2,WorldWarCannon
+3be0cab1-643b-4e3a-9f49-45995e4eb9fb,40mm Octuple AA Gun,Octuple 40mm Mk-S,Core_SimpleWeapon,Simple weapons,3x2x3,WorldWarCannon
+d8c5639a-ff5f-448e-a761-c2f69fac661a,40mm Quad AA Gun,Quad 40mm Mk-I,Core_SimpleWeapon,Simple weapons,3x2x3,WorldWarCannon
+268d79bf-c266-48ed-b01b-76c8d4d31c92,40mm Twin AA Gun,Twin 40mm Mk-H,Core_SimpleWeapon,Simple weapons,3x2x3,WorldWarCannon
+9b8657b9-c820-43a0-ad19-25ea45a100f1,60mm Auto Cannon,60mm auto cannon,Core_SimpleWeapon,Simple weapons,1x1x3,WorldWarCannon
+2311e4db-a281-448f-ad53-0a6127573a96,60mm Grenade Launcher,Type-E 60mm grenade launcher,Core_SimpleWeapon,Simple weapons,1x1x1,WorldWarCannonCustomShells
+e1d1bcae-f5e4-42bb-9781-6dde51b8e390,64 pdr Cannon,64 pdr cannon,Core_SimpleWeapon,Simple weapons,1x1x2,WorldWarCannon
+5cf2b4da-c1b8-4005-930b-73cc39ac9d28,Laser,Laser,Core_SimpleWeapon,Simple weapons,1x1x4,Laser
+c0e407e9-fc15-43fa-9a61-4c79a3acb6a9,Ram,Ram,Core_SimpleWeapon,Simple weapons,1x1x2,Ram
+16b67fbc-25d5-4a35-a0df-4941e7abf6ef,Revolving Blast-Gun,Revolving blast-gun,Core_SimpleWeapon,Simple weapons,1x1x1,WorldWarCannon
+d3e8e14a-58e7-4bdd-b1b3-0f37e4723a73,Shard Cannon,Shard cannon,Core_SimpleWeapon,Simple weapons,1x2x3,WorldWarCannon
+b633f303-0131-489a-ad4c-68b94fc5d93f,Large 2m sealed shaft,,Core_SteamEngine,Large shaft,1x1x1,SteamCrankShaft
+ceae02f9-2a21-40a0-b0d5-fdb0e4975826,Large 5m propeller,Large 5m propeller,Core_SteamEngine,Steam Engines,5x5x1,SteamCrankPropeller
+3d03785a-21b9-42c7-8acb-17cf43de9d58,Large 7m propeller,Large 7m propeller,Core_SteamEngine,Large 5m propeller,7x7x1,SteamCrankPropeller
+0f172964-3bad-437d-b17c-0b52c8ddc43a,Large axis-shifting gears L,Large axis-shifting gears L,Core_SteamEngine,Large axis-shifting gears R,2x2x2,SteamCrankShaftAxisShift
+aac4a0a5-9ff4-489d-a119-ea1b6e56ea87,Large axis-shifting gears R,Large axis-shifting gears R,Core_SteamEngine,Steam Engines,2x2x2,SteamCrankShaftAxisShift
+1af1b76e-23df-495e-8bc7-711ce2c221f8,Large boiler,Large boiler,Core_SteamEngine,Steam Engines,5x5x1,SteamBoiler
+bd32505c-29b2-4ff2-aa27-4ab3018b6706,Large boiler connector,Large boiler connector,Core_SteamEngine,Steam Engines,5x5x1,SteamBoiler
+16e58d6d-30ce-40ac-a80e-ea153a3608a8,Large boiler control,Large boiler control,Core_SteamEngine,Steam Engines,5x5x1,SteamBoilerController
+2f3a940f-b0fb-42ab-aabf-f1c933fe0264,Large boiler end,Large boiler end,Core_SteamEngine,Steam Engines,5x5x1,SteamBoiler
+09bec717-8b13-40ab-8468-0630cae1e964,Large cased crank,Large cased crank,Core_SteamEngine,Large gearbox,3x3x3,SteamCrankCrank
+19a3d1a2-574e-4619-91b0-050d3b1201a9,Large crank motor,,Core_SteamEngine,Steam Engines,3x2x1,SteamCrankMotor
+23797716-3986-4ee7-8fed-f7884a10d810,Large engine shaft,Large engine shaft,Core_SteamEngine,Large gearbox,1x1x1,SteamCrankShaft
+41f8d920-d038-4bd9-b84d-01603ac7a534,Large gearbox,Large gearbox,Core_SteamEngine,Steam Engines,3x1x2,SteamCrankGearbox
+02f0c77e-2d93-4ecf-baad-5918e1825a96,Large generator,Large generator,Core_SteamEngine,Large gearbox,3x3x2,SteamCrankGenerator
+0448ca96-fa37-4389-9ee3-3e7280ffadd3,Large parallel piston,Large parallel piston,Core_SteamEngine,Large gearbox,3x3x5,SteamCrankPistonParallel
+4479a607-8cbf-45de-bd6b-1de26e70423b,Large serial piston,Large serial piston,Core_SteamEngine,Large gearbox,3x3x5,SteamCrankPistonSerial
+b8304b5f-9b20-48b0-b3df-a8187916ed98,Large serial piston (mirror),Large serial piston,Core_SteamEngine,Large gearbox,3x3x5,SteamCrankPistonSerialMirror
+b6184e42-1647-4bd2-8465-f8b88f76621f,Large shaft,,Core_SteamEngine,Steam Engines,1x1x1,SteamCrankShaft
+eb8186f4-6c24-48e6-b918-0aaea3bde6c9,Large shaft bearing,Large shaft bearing,Core_SteamEngine,Steam Engines,1x2x1,SteamCrankShaft
+57b2c11e-8eea-4e0e-a102-56021b8df30f,Large transmission,Large transmission,Core_SteamEngine,Steam Engines,5x2x4,SteamCrankTransmission
+6c710586-6b65-4025-bb5c-1e359f45a352,Large turbine generator,Large turbine generator,Core_SteamEngine,Steam Engines,5x5x1,SteamTurbineGenerator
+9da4b2a1-a69a-472d-ad2f-a65a9a36e6ea,Large turbine generator connection,L turbine generator connection,Core_SteamEngine,Large turbine generator,5x5x2,SteamTurbine
+3dafc031-0a23-430f-bbca-4c7b8cd523db,Large turbine middle,Large turbine middle,Core_SteamEngine,Large turbine generator,5x5x2,SteamTurbine
+b87cbd21-faba-40de-9fca-a1f1a9178a21,Large turbine pipe connection,L turbine pipe connection,Core_SteamEngine,Large turbine generator,5x5x2,SteamTurbine
+524cc556-c755-4df0-b396-7cb44d98fcb5,Large turbine window,Large turbine window,Core_SteamEngine,Large turbine generator,5x5x2,SteamTurbine
+8266bc4e-7dc4-4c3a-bef9-9dddf4dab8d2,Large wheel,Large wheel,Core_SteamEngine,Large gearbox,3x3x1,SteamCrankWheel
+91db1f04-92a2-47c9-a3ea-be8cf37b60a7,Medium 2m sealed shaft,,Core_SteamEngine,Medium Shaft,1x1x1,SteamCrankShaft
+0c5a2ff0-a0bf-490d-8cd7-219d71a1b629,Medium 3m propeller,Medium 3m propeller,Core_SteamEngine,Steam Engines,3x3x1,SteamCrankPropeller
+d43a0af4-69e3-4f28-a0fc-9d36b21273e2,Medium 5m propeller,Medium 5m propeller,Core_SteamEngine,Medium 3m propeller,5x5x1,SteamCrankPropeller
+6542630e-e790-4c24-9888-c949b4723ee4,Medium Shaft,,Core_SteamEngine,Steam Engines,1x1x1,SteamCrankShaft
+0fa43634-33a6-469e-9689-ffedb05b3a33,Medium axis shifting gears,Medium axis shifting gears,Core_SteamEngine,Steam Engines,1x2x1,SteamCrankShaftAxisShift
+b44be747-32cb-41b7-9e1e-21472534b4b8,Medium boiler,Medium boiler,Core_SteamEngine,Steam Engines,3x3x1,SteamBoiler
+094e242e-85be-433b-b64a-1c951695568f,Medium cased crank,Medium cased crank,Core_SteamEngine,Medium gearbox,1x2x1,SteamCrankCrank
+c40ae12e-bf54-40ad-aa30-2278d78f86bc,Medium crank,Medium crank,Core_SteamEngine,Medium gearbox,1x2x1,SteamCrankCrank
+de655a70-1b6f-4549-a810-029356047512,Medium crank motor,,Core_SteamEngine,Steam Engines,1x1x1,SteamCrankMotor
+9e41c3e8-db93-41db-9ce3-95b248af6c68,Medium engine shaft,Medium engine shaft,Core_SteamEngine,Medium gearbox,1x1x1,SteamCrankShaft
+a3114f91-5182-4803-9ec6-fc1e6a7f9a87,Medium firebox,Medium firebox,Core_SteamEngine,Decorations,1x1x1,
+57d0b848-3bf5-45db-bfe2-447933aee7fd,Medium gearbox,Medium gearbox,Core_SteamEngine,Steam Engines,1x1x2,SteamCrankGearbox
+7ebdfa78-1942-457e-8f30-f178525bb5f1,Medium piston (4m),Medium piston (4m),Core_SteamEngine,Medium gearbox,1x1x4,SteamCrankPistonStandard
+a5556bd2-0d78-48d1-bfa6-dbdd08443680,Medium shaft bearing,Medium shaft bearing,Core_SteamEngine,Steam Engines,1x2x1,SteamCrankShaft
+c11040bb-b868-4ab9-91c6-6a3924cd5c19,Medium shaft generator,Medium shaft generator,Core_SteamEngine,Medium gearbox,3x3x2,SteamCrankGenerator
+10c9e65e-ea35-47c9-a8a7-4de86c6438b8,Medium steam controller,Medium steam controller,Core_SteamEngine,Steam Engines,1x2x1,SteamBoilerController
+d3e77516-fa1c-4f78-acbe-731bb2a0e698,Medium transmission,Medium transmission,Core_SteamEngine,Steam Engines,2x2x3,SteamCrankTransmission
+2588c8c7-5347-4d68-b9a0-c794e5fdf408,Medium turbine generator,Medium turbine generator,Core_SteamEngine,Steam Engines,3x3x1,SteamTurbineGenerator
+dbd44b5e-acc7-4797-9c06-a07b19f03bdd,Medium turbine generator connection,M turbine generator connection,Core_SteamEngine,Medium turbine generator,3x3x1,SteamTurbine
+25ae7b90-4e78-49c3-8bd5-59712fc87b77,Medium turbine middle,Medium turbine middle,Core_SteamEngine,Medium turbine generator,3x3x1,SteamTurbine
+1c4e94a1-c36a-4b8f-86be-a9b2ae736a71,Medium turbine pipe connection,M turbine pipe connection,Core_SteamEngine,Medium turbine generator,3x3x1,SteamTurbine
+fd0d5e77-2074-4c3e-b708-4a2c0cc6f7a4,Medium turbine window,Medium turbine window,Core_SteamEngine,Medium turbine generator,3x3x1,SteamTurbine
+7d016aa1-e2b3-4fb0-a51e-8e01df77c6c5,Medium wheel,Medium wheel,Core_SteamEngine,Medium gearbox,3x3x1,SteamCrankWheel
+7cbc276b-2e3d-4037-9aa8-9fc8c1f7a4fc,Medium wheel 1m,,Core_SteamEngine,Medium gearbox,1x1x1,SteamCrankWheel
+bf008077-997c-4371-a116-57de7d351fe7,Small 1m propeller,Small 1m propeller,Core_SteamEngine,Steam Engines,1x1x1,SteamCrankPropeller
+f1cd8c28-fa65-48db-8049-1858a7fc6db3,Small 2m sealed shaft,,Core_SteamEngine,Small shaft,1x1x1,SteamCrankShaft
+5373c818-c0e4-4cad-afc5-bed89f5236b4,Small 3m propeller,,Core_SteamEngine,Small 1m propeller,3x3x1,SteamCrankPropeller
+ff8b571c-728e-4f81-9bad-3938ae8c540a,Small axis shifting gears,Small axis shifting gears,Core_SteamEngine,Steam Engines,1x2x1,SteamCrankShaftAxisShift
+811379b2-2e27-4268-b821-940766960802,Small boiler,Small boiler,Core_SteamEngine,Steam Engines,1x1x1,SteamBoiler
+afbc81cf-82bc-4f9b-a96d-079f5cd12130,Small cased crank,Small cased crank,Core_SteamEngine,Small gearbox,1x1x1,SteamCrankCrank
+76fb5718-e965-46ab-9f0c-c82baf648abf,Small compact turbine,Small compact turbine,Core_SteamEngine,Small turbine generator,1x1x1,SteamTurbine
+ce84541b-a7f2-4d49-9074-040217580385,Small crank,Small crank,Core_SteamEngine,Small gearbox,1x1x1,SteamCrankCrank
+c937c1c0-d6f3-46b4-af96-d1842a240fb3,Small crank motor,,Core_SteamEngine,Steam Engines,1x1x1,SteamCrankMotor
+0e25d9c8-9b52-40db-9979-3d1492d9ffeb,Small engine shaft,Small engine shaft,Core_SteamEngine,Small gearbox,1x1x1,SteamCrankShaft
+4d7a6918-e6ed-4328-a7b6-1f5e874618d5,Small firebox,Small firebox,Core_SteamEngine,Decorations,1x1x1,
+a91233a6-a786-4ca8-b50f-9faca5cb3733,Small gearbox,Small gearbox,Core_SteamEngine,Steam Engines,1x1x1,SteamCrankGearbox
+a054889a-5380-4361-95e0-4482cf8bbe9f,Small piston (2m),Small piston (2m),Core_SteamEngine,Small gearbox,1x1x2,SteamCrankPistonStandard
+f908dad2-4ca1-470b-b786-63ddc91f9432,Small shaft,,Core_SteamEngine,Steam Engines,1x1x1,SteamCrankShaft
+3f95907f-c66f-4211-96d6-5765857a34de,Small shaft bearing,Small shaft bearing,Core_SteamEngine,Steam Engines,1x1x1,SteamCrankShaft
+4e4e3ca6-b90d-484d-80e4-6fe6b0261532,Small shaft generator,Small shaft generator,Core_SteamEngine,Small gearbox,1x1x1,SteamCrankGenerator
+0639fbba-70be-4398-857c-6786dab39bea,Small steam controller,Small steam controller,Core_SteamEngine,Steam Engines,1x1x1,SteamBoilerController
+c37830f6-bd7b-4c92-bf6e-cf902bbf8d0b,Small transmission,Small transmission,Core_SteamEngine,Steam Engines,1x1x2,SteamCrankTransmission
+33d7dc96-ff04-4178-8f67-9c380d26f168,Small turbine generator,Small turbine generator,Core_SteamEngine,Steam Engines,1x1x1,SteamTurbineGenerator
+5ed70947-70c6-4e1d-9241-7d670874a07f,Small turbine generator connection,S turbine generator connection,Core_SteamEngine,Small turbine generator,1x1x1,SteamTurbine
+caeab2bf-c814-43f2-a220-e13b6d557034,Small turbine middle,Small turbine middle,Core_SteamEngine,Small turbine generator,1x1x1,SteamTurbine
+9f96d700-d8bc-4aa1-bce8-f284a9117bc7,Small turbine pipe connection,S turbine pipe connection,Core_SteamEngine,Small turbine generator,1x1x1,SteamTurbine
+d34728c0-95de-49fd-a23d-735c7084556f,Small turbine window,Small turbine window,Core_SteamEngine,Small turbine generator,1x1x1,SteamTurbine
+abd1afe4-2fb2-4f91-94aa-39d56f94ca05,Small wheel,Small wheel,Core_SteamEngine,Small gearbox,1x1x1,SteamCrankWheel
+96c9d85c-425a-4744-8ff3-36a364ceb99d,Steam Shaft Drill Extension 1m,Small shaft drill extension,Core_SteamEngine,Small gearbox,1x1x1,SteamCrankDrill
+35cd6905-44d0-4bb3-be0f-20ee2ed670bf,Steam Shaft Drill Extension 3m,Medium shaft drill extension,Core_SteamEngine,Medium gearbox,1x1x1,SteamCrankDrill
+cbe68b75-1568-494e-8caf-c9e5336faea7,Steam Shaft Drill Extension 5m,Large shaft drill extension,Core_SteamEngine,Large gearbox,1x1x1,SteamCrankDrill
+deaa6f94-9d44-43aa-afce-1c23425c3aa9,Steam Shaft Drill Extension 5m,Large shaft drill extension,Core_SteamEngine,Large gearbox,3x3x3,SteamCrankDrill
+cdc656c1-2266-470b-872c-79faa65dcaae,Steam Shaft Drill Head 1m,Small steam drill head,Core_SteamEngine,Small gearbox,1x1x2,SteamCrankDrill
+532c3d76-ede3-4fbf-bf87-8e82b3acc73b,Steam Shaft Drill Head 3m,Medium steam drill head,Core_SteamEngine,Medium gearbox,1x1x2,SteamCrankDrill
+d00a6de3-be1a-4ae2-be0b-f7bb14d75052,Steam Shaft Drill Head 5m,Large steam drill head,Core_SteamEngine,Large gearbox,3x3x6,SteamCrankDrill
+c0eecb94-0410-4031-9015-2ec4b8fd4c80,Steam Shaft Drill Head 5m,Large steam drill head,Core_SteamEngine,Large gearbox,1x1x2,SteamCrankDrill
+0e11729e-09d9-4a3c-83dd-1ee16ed4f2f8,Steam corner pipe,Steam corner pipe,Core_SteamEngine,Steam pipe 1m,1x1x1,SteamPipe
+62ecbf4b-19da-481e-8910-6201521c4bd9,Steam hull pipe,Steam hull pipe,Core_SteamEngine,Steam pipe 1m,1x1x1,SteamPipe
+3af2aa7c-86c8-47f5-896d-26d9622cdea8,Steam jet,Steam jet,Core_SteamEngine,Steam Engines,1x1x1,SteamJet
+1bc2df6d-f59e-40f4-ade3-83a357676123,Steam pipe 1m,Steam pipe 1m,Core_SteamEngine,Steam Engines,1x1x1,SteamPipe
+3cdfdc8b-a6ec-4aa9-bd10-0aab93237825,Steam pipe 2m,Steam pipe 2m,Core_SteamEngine,Steam pipe 1m,1x1x2,SteamPipe
+267adeca-82e1-4578-8d3f-85608cd0aa87,Steam pipe 3 way,Steam pipe 3 way,Core_SteamEngine,Steam pipe 1m,1x1x1,SteamPipe
+737a55bf-3ab9-472d-ac49-61309a13ef57,Steam pipe 3 way (2),Steam pipe 3 way (2),Core_SteamEngine,Steam pipe 1m,1x1x1,SteamPipe
+c5555c97-f068-435d-8e2a-635bbc184c16,Steam pipe 3 way (2),Steam pipe 3 way (2),Core_SteamEngine,Steam pipe 1m,1x1x1,SteamPipe
+bdfe2fc5-2d18-4c27-a2fe-c1a83f962730,Steam pipe 4 way,Steam pipe 4 way,Core_SteamEngine,Steam pipe 1m,1x1x1,SteamPipe
+31d3adbb-83ec-47aa-b2fa-7c874d710459,Steam pipe 4 way (2),Steam pipe 4 way (2),Core_SteamEngine,Steam pipe 1m,1x1x1,SteamPipe
+03fc3659-217c-4189-9da1-1d9ae8b29f2a,Steam pipe 4 way (2) (mirror),Steam pipe 4 way (2) (mirror),Core_SteamEngine,Steam pipe 1m,1x1x1,SteamPipe
+d3f65018-2833-4746-9425-dd78590f4f26,Steam pipe 4m,Steam pipe 4m,Core_SteamEngine,Steam pipe 1m,1x1x4,SteamPipe
+cd90265f-4593-446b-9153-623c2f339dc0,Steam pipe 5 way,Steam pipe 5 way,Core_SteamEngine,Steam pipe 1m,1x1x1,SteamPipe
+cd4d4ab6-0652-46dd-b887-71714317f470,Steam pipe 6 way,Steam pipe 6 way,Core_SteamEngine,Steam pipe 1m,1x1x1,SteamPipe
+a3ea3972-d2c4-409d-8f77-5be9e2809da0,Steam pipe valve,,Core_SteamEngine,Steam Engines,1x1x1,SteamValve
+b82023a0-5f10-4648-8230-74b159f6b185,Steam pipe vent,,Core_SteamEngine,Steam Engines,1x1x1,SteamVent
+909e3611-6367-4b6c-ae61-4d909391bd66,Steam tank 1m,,Core_SteamEngine,Steam Engines,1x1x1,SteamTank
+54adcdbd-920b-43a4-b3d3-667f648505be,Steam tank 3m,,Core_SteamEngine,Steam Engines,3x3x1,SteamTank
+ff66ced4-c241-4d3a-b7e9-51e2db659095,Wide Drill Bit,Wide Drill Bit,Core_SteamEngine,Medium gearbox,3x3x1,SteamCrankDrill
+7dda1ddd-3839-4961-9f92-731c65165006,Wide Drill Bit 5x5,Wide Drill Bit 5x5,Core_SteamEngine,Large gearbox,5x5x1,SteamCrankDrill
+a1fb0330-6320-474d-b58c-f43830f6eff1,Wide drill bit 7x7,Wide drill bit 7x7,Core_SteamEngine,Large gearbox,7x7x1,SteamCrankDrill
+b6904047-0232-442f-b444-d99a440edf2f,ERA Armour,ERA,Core_Structural,Blocks,1x1x1,EraArmour
+10e8b2e3-2a00-46e8-94d5-44c0403df6bf,ERA Armour Slope (1m),ERA armour slope (1m),Core_Structural,ERA Armour,1x1x1,EraArmour
+2d519ca8-1f12-4a8e-9340-aa6648b5e799,Glass block,Block,Core_Structural,Blocks,1x1x1,GlassBlock
+0c03433e-8947-4e7d-9dec-793526fe06d1,Heavy Armour,Block,Core_Structural,Blocks,1x1x1,
+e71e6f97-fbe8-4bf5-9645-d15179ba0c17,Lead Block,Block,Core_Structural,Blocks,1x1x1,Block
+288e3778-900b-4bfd-a455-e94ed75c6ec2,Light Block,Light block,Core_Structural,Blocks,1x1x1,LightBlock
+3cc75979-18ac-46c4-9a5b-25b327d99410,Light-weight Alloy Block,Block,Core_Structural,Blocks,1x1x1,Block
+ab699540-efc8-4592-bc97-204f6a874b3a,Metal Block,Block,Core_Structural,Blocks,1x1x1,Block
+71a1775f-ecee-4f0c-8693-56cb5d94f5cc,Morph wood block,,Core_Structural,Wood Block,1x1x1,WoodBlock
+6c0bab88-aa88-4825-9cf5-55df36aa12b8,Rubber Block,Block,Core_Structural,Blocks,1x1x1,RubberBlock
+710ee212-563b-42f8-acd1-57515479524d,Stone Block,Block,Core_Structural,Blocks,1x1x1,Block
+d51549fd-2e38-4271-b85a-afded45400df,Window Block,Window block,Core_Structural,Glass block,1x1x1,GlassBlock
+9a0ae372-beb4-4009-b14e-36ed0715af73,Wood Block,Block,Core_Structural,Blocks,1x1x1,WoodBlock
+f72b5a6e-081e-4889-b041-a90b2ca7ae4e,Wood Block Variant,Mast Top,Core_Structural,Wood Block,1x1x1,Block
+aecb98bb-76cd-4d05-8304-acc1392ab596,Alloy strut,,Core_Struts,Blocks,1x1x1,
+fd48a04d-ddd7-4828-b6d0-b6d3347488ee,Heavy armour strut,,Core_Struts,Blocks,1x1x1,
+27c3ff2f-e9a1-4281-a79a-1a5daddd98cd,Metal strut,,Core_Struts,Blocks,1x1x1,
+a3746c99-5e0b-4e0f-ad1e-c0f834054d72,Wing strut,,Core_Struts,Air,1x1x1,
+ba4a4581-d315-494e-9936-a82acd3fce13,Wood strut,,Core_Struts,Blocks,1x1x1,
+3f0e0e85-2891-473d-bc22-03626afae27d,Rudder Pivot Square,1x1 pivot,Core_Surface,Rudder Square,1x1x1,ControlSurfacePivot
+41dbf539-27a7-4240-91ff-9ff523d008bf,Rudder Square,1x1 rudder section,Core_Surface,Water,1x1x1,ControlSurfacePlate
+24f6df16-98dc-4176-93cf-456a5e4d7ab8,Warp Charger (2m),Warp stabilizer,Core_WarpDrive,Miscellaneous,1x1x2,WarpDriveStabilizer
+0a8d8d02-5d03-4488-8431-e75602fea1e4,Warp Controller,Warp controller,Core_WarpDrive,Miscellaneous,1x1x1,WarpDriveController
+c6497cec-51b5-4d94-940e-107990a25afd,Warp Rod (2m),Warp rod,Core_WarpDrive,Miscellaneous,1x1x2,WarpDriveRod
+d6c8b7aa-bdcd-459a-a2ec-fbbba09cffcf,Warp Terminator,Warp terminator,Core_WarpDrive,Miscellaneous,1x1x1,WarpDriveTerminator
+8331c71c-5725-472d-ad2e-65e4110982b7,Air Pump,Air pump,Core_Water,Water,1x1x1,AirPump
+dd9dd993-3f46-47ca-bfc0-80f37e183e9b,Articulated Paddle,Articulated paddle,Core_Water,Water,1x1x1,ArticulatedPaddle
+3a59c6f8-59dc-4a12-8fd3-c509a9d84906,Boat Propeller,Propeller square,Core_Water,Water,1x1x1,Propeller
+a8dcd83f-ec5f-40fc-901e-0bf45a8e551b,Boat Propeller circular,Propeller circular,Core_Water,Water,1x1x1,Propeller
+2078227e-d38c-4f58-abd0-6f4878806a9f,Boat Rudder,Rudder,Core_Water,Water,1x2x1,Rudder
+9710b923-9e8c-4762-aa74-bffefb263a7e,Huge propeller,Huge propeller square,Core_Water,Water,3x3x1,HugePropeller
+576e79a6-07e1-4485-903d-e5929d512c08,Huge propeller circular,Huge propeller circular,Core_Water,Water,3x3x1,HugePropeller
+953f1c50-c18f-43f4-815a-c19e5aff7af7,Hydrofoil,Hydrofoil,Core_Water,Water,1x1x1,Hydrofoil
+ba1d3193-abc5-4b8c-a512-e8fffe95ad99,Paddle,Paddle,Core_Water,Water,1x1x1,Paddle
+968caa09-3778-40bd-97f9-0efffa676803,Sail Attachment,Sail Attachment,Core_Water,Water,1x1x1,SailAttachment
+48122725-f6bd-45e5-a6a4-40fa2ffee1d4,Sail Main Block,Sail Main Block,Core_Water,Water,1x1x1,SailBlock
+b1ec687f-252d-4b35-b57f-a0cf0bb72212,Sail Main Block (Square Rig!),Sail Main Block (Square Rig!),Core_Water,Water,1x1x1,SquareRigBlock
+8ca7ff43-d384-4588-a069-48ec57765db0,Sail Winch,Sail Winch,Core_Water,Water,1x1x1,SailWinch
+5c76e88d-29e4-4078-aed2-7686d5b1eec7,Weather Vane,Weather Vane,Core_Water,Water,1x1x1,WeatherVane
+362cf2d2-533d-4622-b2c1-490843662d97,Weather Vane circular,Weather Vane circular,Core_Water,Water,1x1x1,WeatherVane
+36eff35b-864d-4455-86e2-939996ca3f27,Example mod block,,ExampleMod,Miscellaneous,1x1x1,ExampleModBlock
