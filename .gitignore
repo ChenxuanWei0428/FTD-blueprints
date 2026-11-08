@@ -1,1 +1,8 @@
 ﻿*.blueprint_backup
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# item-name cache rebuilt from the game install by design_data/tools/ftd.py
+design_data/tools/items.json
