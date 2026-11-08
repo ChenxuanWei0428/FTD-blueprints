@@ -26,7 +26,23 @@ def blocks(d,b):
         g=D[str(bid)]; x,y,z=map(int,p.split(','))
         yield i,(x,y,z),r,c,bid,g,IT.get(g,{}).get('name',g)
 import re
-FWD={0:(0,0,1),1:(1,0,0),2:(0,0,-1),3:(-1,0,0),4:(0,-1,0),5:(0,-1,0),6:(0,-1,0),7:(0,-1,0),8:(0,1,0),9:(0,1,0),10:(0,1,0),11:(0,1,0),12:(0,0,1),13:(-1,0,0),14:(0,0,-1),15:(1,0,0),16:(0,0,1),17:(0,0,-1),18:(0,0,1),19:(0,0,-1),20:(1,0,0),21:(-1,0,0),22:(1,0,0),23:(-1,0,0)}
+# rotation index -> (forward, up); right = cross(up, forward). Derived 2026-11-08 by checking which (F,U)
+# makes multi-cell blocks in ~all game prefabs never overlap another block (13/15 were wrong before: they face +x/-x upside-down).
+ROT={0:((0,0,1),(0,1,0)),1:((1,0,0),(0,1,0)),2:((0,0,-1),(0,1,0)),3:((-1,0,0),(0,1,0)),
+     4:((0,-1,0),(0,0,1)),5:((0,-1,0),(1,0,0)),6:((0,-1,0),(0,0,-1)),7:((0,-1,0),(-1,0,0)),
+     8:((0,1,0),(0,0,1)),9:((0,1,0),(1,0,0)),10:((0,1,0),(0,0,-1)),11:((0,1,0),(-1,0,0)),
+     12:((0,0,1),(0,-1,0)),13:((1,0,0),(0,-1,0)),14:((0,0,-1),(0,-1,0)),15:((-1,0,0),(0,-1,0)),
+     16:((0,0,1),(1,0,0)),17:((0,0,-1),(1,0,0)),18:((0,0,1),(-1,0,0)),19:((0,0,-1),(-1,0,0)),
+     20:((1,0,0),(0,0,1)),21:((-1,0,0),(0,0,1)),22:((1,0,0),(0,0,-1)),23:((-1,0,0),(0,0,-1))}
+FWD={r:f for r,(f,u) in ROT.items()}
+def cross(a,b): return (a[1]*b[2]-a[2]*b[1],a[2]*b[0]-a[0]*b[2],a[0]*b[1]-a[1]*b[0])
+def frame(r):
+    F,U=ROT[r]; return cross(U,F),U,F
+ROT_INDEX={v:k for k,v in ROT.items()}
+def rot_map(r,M):
+    """rotation index after applying the proper rotation M (function on vectors) to a block with index r"""
+    F,U=ROT[r]; return ROT_INDEX[(M(F),M(U))]
+def yaw180(v): return (-v[0],v[1],-v[2])
 def length(g,name):
     s=IT.get(g,{}).get('size') or {}
     if s.get('SizePos'): return s['SizePos']['z']+1
@@ -61,20 +77,17 @@ def inside(o):
         st+= [(x+1,y,z),(x-1,y,z),(x,y+1,z),(x,y-1,z),(x,y,z+1),(x,y,z-1)]
     ins=set((x,y,z) for x in range(x0,x1+1) for y in range(y0,y1+1) for z in range(z0,z1+1) if (x,y,z) not in out and (x,y,z) not in o)
     return ins,out
-YAW={0:((1,0,0),(0,1,0),(0,0,1)),1:((0,0,-1),(0,1,0),(1,0,0)),2:((-1,0,0),(0,1,0),(0,0,-1)),3:((0,0,1),(0,1,0),(-1,0,0))}
 WARN=set()
 def cells_of(g,name,p,r):
     s=(IT.get(g,{}).get('size') or {})
     sn,sp=s.get('SizeNeg'),s.get('SizePos')
     if sn and sp and (sn['x'] or sn['y'] or sp['x'] or sp['y'] or sn['z']):
-        if r in YAW:
-            R,U,F=YAW[r]; out=[]
-            for a in range(-sn['x'],sp['x']+1):
-                for u in range(-sn['y'],sp['y']+1):
-                    for f in range(-sn['z'],sp['z']+1):
-                        out.append((p[0]+R[0]*a+U[0]*u+F[0]*f,p[1]+R[1]*a+U[1]*u+F[1]*f,p[2]+R[2]*a+U[2]*u+F[2]*f))
-            return out
-        WARN.add((name,r))
+        R,U,F=frame(r); out=[]
+        for a in range(-sn['x'],sp['x']+1):
+            for u in range(-sn['y'],sp['y']+1):
+                for f in range(-sn['z'],sp['z']+1):
+                    out.append((p[0]+R[0]*a+U[0]*u+F[0]*f,p[1]+R[1]*a+U[1]*u+F[1]*f,p[2]+R[2]*a+U[2]*u+F[2]*f))
+        return out
     L=length(g,name); f=FWD.get(r,(0,0,1))
     return [(p[0]+f[0]*k,p[1]+f[1]*k,p[2]+f[2]*k) for k in range(L)]
 def occ(d,b):
